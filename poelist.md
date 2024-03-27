@@ -11,4 +11,8 @@ piimad:
 - [ ] hapukoor
 - [ ] barista
 - [ ] juust
-liha
+lihad:
+- [ ] sink (broileririnnafilee)
+- [ ] kanafilee
+- [ ] kala
+- [ ] 
