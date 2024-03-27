@@ -1,0 +1,2 @@
+valge ratas?
+kanad
