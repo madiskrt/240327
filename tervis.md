@@ -1,2 +1,2 @@
-arvuti
-bbbb
+kontroll ECG enne suve
+Iida vaktsiin
