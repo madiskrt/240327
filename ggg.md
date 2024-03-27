@@ -2,4 +2,7 @@ my file haha
 great news
 my notes
 ???!
-hhhhh
+<<<<<<< master
+hhhhh=======
+sssdd
+>>>>>>> origin/master
