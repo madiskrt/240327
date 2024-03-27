@@ -1,3 +1,5 @@
+
+
 värske:
 - [ ] kartul
 - [ ] porgand
@@ -5,12 +7,14 @@ värske:
 - [ ] lillkapsas
 - [ ] abokaado
 - [ ] õunad
+
 piimad:
 - [ ] piim
 - [ ] keefir
 - [ ] hapukoor
 - [ ] barista
 - [ ] juust
+
 lihad:
 - [ ] sink (broileririnnafilee)
 - [ ] kanafilee
