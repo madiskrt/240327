@@ -4,4 +4,11 @@ värske:
 - [ ] brokkol
 - [ ] lillkapsas
 - [ ] abokaado
-- [ ] õ
+- [ ] õunad
+piimad:
+- [ ] piim
+- [ ] keefir
+- [ ] hapukoor
+- [ ] barista
+- [ ] juust
+liha
