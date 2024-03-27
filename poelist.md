@@ -24,3 +24,5 @@ lihad:
 
 mittesöödav:
 - [ ] salvakad
+- [ ] wc paber
+- [ ] pesugeel sin
