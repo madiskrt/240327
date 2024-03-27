@@ -1,4 +1,4 @@
-
+- [ ] leib
 
 värske:
 - [ ] kartul
@@ -14,9 +14,13 @@ piimad:
 - [ ] hapukoor
 - [ ] barista
 - [ ] juust
+- [ ] või
+- [ ] avokaadomääre
 
 lihad:
 - [ ] sink (broileririnnafilee)
 - [ ] kanafilee
 - [ ] kala
-- [ ] 
+
+mittesöödav:
+- [ ] salvakad
