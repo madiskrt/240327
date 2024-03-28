@@ -2,12 +2,15 @@
 
 värske:
 - [ ] tomat
+- [ ] kurk
 - [ ] kartul
 - [ ] porgand
 - [ ] brokkol
 - [ ] lillkapsas
 - [ ] abokaado
 - [ ] õunad
+- [ ] sibulad
+- [ ] küüslauk
 
 piimad:
 - [ ] piim
