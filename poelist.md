@@ -11,6 +11,7 @@ värske:
 - [x] lillkapsas
 - [x] abokaado
 - [x] õunad
+- [ ] 
 - [x] sibulad
 - [ ] küüslauk
 
