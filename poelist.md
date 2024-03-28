@@ -31,13 +31,13 @@ piimad:
 - [ ] avokaadomääre
 
 lihad:
-- [ ] sink (broileririnnafilee)
+- [x] sink (broileririnnafilee)
 - [ ] kanafilee
 - [ ] kala
 
 mittesöödav:
 - [ ] salvakad
-- [ ] wc paber
+- [x] wc paber
 - [ ] pesugeel sinine
 - [ ] pesuvalgendi
 - [ ] pesuäädikas
@@ -45,11 +45,12 @@ mittesöödav:
 - [ ] hambapasta
 
 varud:
-- [ ] päikesekuivatatud tomatid
-- [ ] kapparid
+- [x] kohvi
+- [x] päikesekuivatatud tomatid
+- [x] kapparid
 - [ ] tatar
 - [x] kaerahelbed
 - [ ] kaerajahu
-- [ ] Barilla tomatikaste
-- [ ] purustatud tomatid
+- [x] Barilla tomatikaste
+- [x] purustatud tomatid
 - [ ] kikerherned
