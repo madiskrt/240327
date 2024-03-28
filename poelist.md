@@ -23,8 +23,10 @@ piimad:
 - [x] piim
 - [x] keefir
 - [x] hapukoor
+- [x] kodujuust
 - [ ] barista
 - [x] juust
+- [x] fetajuust
 - [ ] või
 - [ ] avokaadomääre
 
@@ -41,3 +43,8 @@ mittesöödav:
 - [ ] pesuäädikas
 - [ ] wc puhastusvahend
 - [ ] hambapasta
+
+varud:
+- päikesekuivatatud tomatid
+- kapparid
+- tatar
