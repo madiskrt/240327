@@ -45,6 +45,9 @@ mittesöödav:
 - [ ] hambapasta
 
 varud:
-- päikesekuivatatud tomatid
-- kapparid
-- tatar
+- [ ] päikesekuivatatud tomatid
+- [ ] kapparid
+- [ ] tatar
+- [x] kaerahelbed
+- [ ] kaerajahu
+- [ ] Barilla tomati
