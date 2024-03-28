@@ -1,24 +1,24 @@
-
+mida on / mida ei ole:
 - [ ] leib
 
 värske:
-- [ ] tomat
+- [x] tomat
 - [ ] kurk
-- [ ] kartul
-- [ ] porgand
-- [ ] brokkol
-- [ ] lillkapsas
-- [ ] abokaado
-- [ ] õunad
-- [ ] sibulad
+- [x] kartul
+- [x] porgand
+- [x] brokkol
+- [x] lillkapsas
+- [x] abokaado
+- [x] õunad
+- [x] sibulad
 - [ ] küüslauk
 
 piimad:
-- [ ] piim
-- [ ] keefir
-- [ ] hapukoor
+- [x] piim
+- [x] keefir
+- [x] hapukoor
 - [ ] barista
-- [ ] juust
+- [x] juust
 - [ ] või
 - [ ] avokaadomääre
 
