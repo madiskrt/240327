@@ -1,5 +1,5 @@
 mida on / mida ei ole:
-- [ ] leib
+- [x] leib
 
 värske:
 - [x] tomat
