@@ -50,4 +50,6 @@ varud:
 - [ ] tatar
 - [x] kaerahelbed
 - [ ] kaerajahu
-- [ ] Barilla tomati
+- [ ] Barilla tomatikaste
+- [ ] purustatud tomatid
+- [ ] kikerherned
