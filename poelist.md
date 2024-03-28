@@ -16,6 +16,7 @@ värske:
 - [ ] pirn
 - [x] sibulad
 - [ ] küüslauk
+- [ ] bas
 
 piimad:
 - [x] piim
@@ -35,4 +36,7 @@ mittesöödav:
 - [ ] salvakad
 - [ ] wc paber
 - [ ] pesugeel sinine
+- [ ] pesuvalgendi
+- [ ] pesuäädikas
+- [ ] wc puhastusvahend
 - [ ] hambapasta
