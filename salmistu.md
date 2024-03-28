@@ -1,3 +1,4 @@
 
-valge ratas?
-kanad
+- [ ] halupuud kevadeks
+- [ ] valge ratas?
+- kanad suveks
