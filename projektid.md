@@ -1,3 +1,3 @@
 
-krundiga tegelemine
+- krundiga tegelemine
 - alustada maade tabel
