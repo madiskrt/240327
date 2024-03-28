@@ -16,7 +16,8 @@ värske:
 - [ ] pirn
 - [x] sibulad
 - [ ] küüslauk
-- [ ] bas
+- [ ] basiilik
+- [ ] rosmariin
 
 piimad:
 - [x] piim
