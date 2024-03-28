@@ -19,15 +19,15 @@ piimad:
 - [x] hapukoor
 - [ ] barista
 - [x] juust
-- [ ] või (palju)
+- [ ] või
 - [ ] avokaadomääre
 
 lihad:
-- [x] sink (broileririnnafilee)
-- [x] kanafilee
+- [ ] sink (broileririnnafilee)
+- [ ] kanafilee
 - [ ] kala
 
 mittesöödav:
 - [ ] salvakad
-- [x] wc paber
+- [ ] wc paber
 - [ ] pesugeel sinine
