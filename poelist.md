@@ -1,3 +1,4 @@
+
 mida on / mida ei ole:
 - [x] leib
 
