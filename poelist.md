@@ -11,7 +11,9 @@ värske:
 - [x] lillkapsas
 - [x] abokaado
 - [x] õunad
-- [ ] 
+- [ ] banaan
+- [ ] kiivi
+- [ ] pirn
 - [x] sibulad
 - [ ] küüslauk
 
@@ -33,3 +35,4 @@ mittesöödav:
 - [ ] salvakad
 - [ ] wc paber
 - [ ] pesugeel sinine
+- [ ] hambapasta
