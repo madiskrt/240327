@@ -1,6 +1,7 @@
 - [ ] leib
 
 värske:
+- [ ] tomat
 - [ ] kartul
 - [ ] porgand
 - [ ] brokkol
