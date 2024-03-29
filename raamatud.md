@@ -1,3 +1,2 @@
 
-- 
-[[Getting Things Done]]
+- [ ] [[Getting Things Done]]
