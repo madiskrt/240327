@@ -62,35 +62,35 @@
 - 240229 il Erin Malone on Pattern Libraries
 	book: designing social interfaces+
 - 240226 nng 5. ROI: The Business Value of UX (feat. Kate Moran, Sr. UX Specialist at NN/g)
-240221 il David Rose on SuperSight
-book: enchanted objects+
-240220 il Karl Voit on Org Mode
-emacs
-240216 il Are Halland on the Core Model
-240215 il Jerry Michalski on Jerry's Brain
-Obsidian
-240215 il Dan Russell on The Joy of Search
-systems thinking
-240213 il Alex Wright on Informatica
-240213 il Chiara Ogan on Personal Libraries
-241113 il Sönke Ahrens on Smart Notes
-240212 il Jenae Cohn on Design for Learning
-240211 uib BDTP. Customer Acquisition Strategies with Farzad Rashidi
-240211 il Pierluigi Dalla Rosa on Interactive Environments
-book: Dynamic land
-240211 il Elizabeth McGuane on Design by Definition
-book: design by definition 3.0
-240209 uib Episode 279: Managing Personal Knowledge with Jorge Arango
-podcast: The informed mind
-information architecture
-book: figure it out
-240207 Scott Rice: Creative lessons learned teaching film with Matthew McConaughey
-240207 nn 3. UX Careers: Growing in (and out of) Your Current Role (feat. Rachel Krause, UX Specialist at NN/g)
-240206 nn 2. Empathy, Adaptability, and Design (feat. Sarah Gibbons, Chief Designer at NN/g)
-240205 nn 1. What is UX, anyway? (feat. Dr. Jakob Nielsen, the usability guru)
-book: Designing web usability
-240203 Design for Real Life with Eric Meyer & Sara Wachter-Boettcher
-240202 Best of Design Matters: Ethan Hawke
+- 240221 il David Rose on SuperSight
+	book: enchanted objects+
+- 240220 il Karl Voit on Org Mode
+	emacs
+- 240216 il Are Halland on the Core Model
+- 240215 il Jerry Michalski on Jerry's Brain
+	Obsidian
+- 240215 il Dan Russell on The Joy of Search
+	systems thinking
+- 240213 il Alex Wright on Informatica
+- 240213 il Chiara Ogan on Personal Libraries
+- 241113 il Sönke Ahrens on Smart Notes
+- 240212 il Jenae Cohn on Design for Learning
+- 240211 uib BDTP. Customer Acquisition Strategies with Farzad Rashidi
+- 240211 il Pierluigi Dalla Rosa on Interactive Environments
+	book: Dynamic land
+- 240211 il Elizabeth McGuane on Design by Definition
+	book: design by definition 3.0
+- 240209 uib Episode 279: Managing Personal Knowledge with Jorge Arango
+	podcast: The informed mind
+	information architecture
+	book: figure it out
+- 240207 Scott Rice: Creative lessons learned teaching film with Matthew McConaughey
+- 240207 nn 3. UX Careers: Growing in (and out of) Your Current Role (feat. Rachel Krause, UX Specialist at NN/g)
+- 240206 nn 2. Empathy, Adaptability, and Design (feat. Sarah Gibbons, Chief Designer at NN/g)
+- 240205 nn 1. What is UX, anyway? (feat. Dr. Jakob Nielsen, the usability guru)
+	book: Designing web usability
+- 240203 Design for Real Life with Eric Meyer & Sara Wachter-Boettcher
+- 240202 Best of Design Matters: Ethan Hawke
 book: the practice
 240201 020-1: Stay Enchanted with Jeffrey Zeldman (Part I)
 book: secrets of succesful websites
