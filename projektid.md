@@ -1,3 +1,3 @@
 
-- krundiga tegelemine
-- alustada maade tabel
+- [[Salmistu]] krundiga tegelemine
+	- [ ] alustada maade pakkumiste tabel ⏫ 
