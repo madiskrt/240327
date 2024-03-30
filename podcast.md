@@ -22,20 +22,20 @@
 - 240317 Louis Rosenfeld on Managing
 - 240316 Christian Crumlish on Product Management
 - 240316 Andy Polaine on Service Design
-podcast: the power of ten
-book: service design 4.3 dl >
-systems thinking
-240316 il Stephen P. Anderson on Cognitive Environments
-book: figure it out >
-book: seductive interaction design 4.3 dl >
-240314 il Jesse James Garrett on Leadership and Information Architecture
-book: elements of user experience
-podcast: finding our way
-230314 il Jeff Sussna on Customer Value Charting
-240312 il Kourosh Dini on DEVONthink
-book: taking smart notes
-240312 il Dave Elfving on Gray Area
-240311 il Rob Haisfield on Roam
+	podcast: the power of ten
+	book: service design 4.3 dl >
+	systems thinking
+- 240316 il Stephen P. Anderson on Cognitive Environments
+	book: figure it out >
+	book: seductive interaction design 4.3 dl >
+- 240314 il Jesse James Garrett on Leadership and Information Architecture
+	book: elements of user experience
+	podcast: finding our way
+- 230314 il Jeff Sussna on Customer Value Charting
+- 240312 il Kourosh Dini on DEVONthink
+	book: taking smart notes
+- 240312 il Dave Elfving on Gray Area
+- 240311 il Rob Haisfield on Roam
 behavioral economics
 240310 il Nicole van der Hoeven on Obsidian
 240308 il Jim Kalbach on Jobs to Be Done
