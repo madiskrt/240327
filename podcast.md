@@ -149,16 +149,16 @@
 	design & marketing
 	book: start with why
 	book: power of habit
-231225 Part I: Mixed Reality & the Future of Design with Austin Knight
-ux patterns
-podcast: ux and growth
-231224 039: Good Designers are Good at Business with Joe Leech
-book: psychology for designers
-book: business model generation + follow up
-231221 040: Should Developers Design with Laura Elizabeth
-book: badass making users awesome (pdf+)
-231221 041: Everything’s Terrible, and That’s Great with Matt Griffin
-231221 042: Practical Design Discovery with Dan Brown
+- 231225 Part I: Mixed Reality & the Future of Design with Austin Knight
+	ux patterns
+	podcast: ux and growth
+- 231224 039: Good Designers are Good at Business with Joe Leech
+	book: psychology for designers
+	book: business model generation + follow up
+- 231221 040: Should Developers Design with Laura Elizabeth
+	book: badass making users awesome (pdf+)
+- 231221 041: Everything’s Terrible, and That’s Great with Matt Griffin
+- 231221 042: Practical Design Discovery with Dan Brown
 book: practical design discovery (a book apart)
 information architecture
 231219 043: Making New Designers with Laura Klein
