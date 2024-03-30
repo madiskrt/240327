@@ -27,7 +27,7 @@ piimad:
 - [x] barista
 - [x] juust
 - [x] fetajuust
-- [ ] või
+- [x] või
 - [ ] avokaadomääre
 
 lihad:

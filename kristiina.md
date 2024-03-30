@@ -5,3 +5,4 @@
 - [ ] vannitoa lae värvimine
 - [ ] köögitasapinna lihvimine ⏫ 
 - [ ] lastetoa radiaatori leke
+- [ ] puidust riiul kööki 🔽 
