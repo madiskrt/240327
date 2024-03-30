@@ -222,38 +222,37 @@
 	book: Thinking fast and slow
 	book: Designing for emotion
 	book: Digital Transformation (Lindsey ..)
-231002 .. 069: We Are All Pioneers with Sophia Prater
-Grit
-Atomic Habits
-podcast: UX Hustle
-231004 .. 070: Harnessing Life Experiences in Design with Shaheena Attarwala
-grit, growth mindset
-book: Irrational (Riley) + tedtalk
-231009 .. 071: User Defenders Live – A Panel on Design Accessibility, Diversity & Ethics with Mina Markham, Derek Featherstone and Farai Madzima
-inclusive design
-231007 .. 072: Everyone’s a UX Designer with Jared Spool (70min)
-231006 .. 073: The Unstoppable Designer with Jeff Gothelf
-lean UX
-lean startup
-book: the Build Trap
-"enthusiastic scepticism"
-231004.. 074: Designers, Mind Your Business with Pek Pongpaet
-231002 33' .. 075: You Belong Here with Jessica Gaddis
-Beamer Institute: ecommerce
-230922 076: User Research? Game On with Steve Bromley
-book: Just enough research
-230921 077: Conflict Resolution for People Who Hate Conflict with Josh Mauldin
-230919 078: There and Back (and Forward) Again with Bob Baxley
-Elements of typographic style
-230918 079: Listener Spotlight – Landing My First UX Job
-book: Mindset
-230906 Everything I Know (So Far) on Landing a Job in UX with Jason Ogle 080    
-...
-230206 077: Conflict Resolution for People Who Hate Conflict with Josh Mauldin
-230126 074: Designers, Mind Your Business with Pek Pongpaet
-230124 073: The Unstoppable Designer with Jeff Gothelf
-facilitation
-230122 071: User Defenders Live – A Panel on Design Accessibility, Diversity & Ethics with Mina Markham, Derek Featherstone and Farai Madzima
+- 231002 .. 069: We Are All Pioneers with Sophia Prater
+	Grit
+	Atomic Habits
+	podcast: UX Hustle
+- 231004 .. 070: Harnessing Life Experiences in Design with Shaheena Attarwala
+	grit, growth mindset
+	book: Irrational (Riley) + tedtalk
+- 231009 .. 071: User Defenders Live – A Panel on Design Accessibility, Diversity & Ethics with Mina Markham, Derek Featherstone and Farai Madzima
+	inclusive design
+- 231007 .. 072: Everyone’s a UX Designer with Jared Spool (70min)
+- 231006 .. 073: The Unstoppable Designer with Jeff Gothelf
+	lean UX
+	lean startup
+	book: the Build Trap
+	"enthusiastic scepticism"
+- 231004.. 074: Designers, Mind Your Business with Pek Pongpaet
+- 231002 33' .. 075: You Belong Here with Jessica Gaddis
+	Beamer Institute: ecommerce
+- 230922 076: User Research? Game On with Steve Bromley
+	book: Just enough research
+- 230921 077: Conflict Resolution for People Who Hate Conflict with Josh Mauldin
+- 230919 078: There and Back (and Forward) Again with Bob Baxley
+	Elements of typographic style
+- 230918 079: Listener Spotlight – Landing My First UX Job
+	book: Mindset
+- 230906 Everything I Know (So Far) on Landing a Job in UX with Jason Ogle 080    
+- 230206 077: Conflict Resolution for People Who Hate Conflict with Josh Mauldin
+- 230126 074: Designers, Mind Your Business with Pek Pongpaet
+- 230124 073: The Unstoppable Designer with Jeff Gothelf
+	facilitation
+- 230122 071: User Defenders Live – A Panel on Design Accessibility, Diversity & Ethics with Mina Markham, Derek Featherstone and Farai Madzima
 book: Joy Inc.
 230117 069: We Are All Pioneers with Sophia Prater
 Grit
