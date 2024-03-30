@@ -1,0 +1,2 @@
+
+- [ ] Piretile ema pilt teha
