@@ -1,6 +1,7 @@
 
 - [ ] praeahju propelleri remont ja puhastus ⏫ 
-- vannitoa koristus
-- vannitoa lae remont
-- köögitasapinna lihvimine
-- lastetoa radiaator lekib
+- [ ] akende pesu
+- [ ] vannitoa koristus
+- [ ] vannitoa lae värvimine
+- [ ] köögitasapinna lihvimine ⏫ 
+- [ ] lastetoa radiaatori leke
