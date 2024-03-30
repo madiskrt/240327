@@ -1,4 +1,6 @@
 
+- [ ] magamistuppa kummut🔼 
+- [ ] lastetuppa narivoodi🔼 
 - [ ] praeahju propelleri remont ja puhastus ⏫ 
 - [ ] akende pesu
 - [ ] vannitoa koristus
