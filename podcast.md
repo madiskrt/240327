@@ -36,32 +36,32 @@
 	book: taking smart notes
 - 240312 il Dave Elfving on Gray Area
 - 240311 il Rob Haisfield on Roam
-behavioral economics
-240310 il Nicole van der Hoeven on Obsidian
-240308 il Jim Kalbach on Jobs to Be Done
-240306 il Annie Murphy Paul on The Extended Mind
-human behaviour
-human cognition
-book: the extended mind 4.4
-240306 il Hans Krueger on the Cycle of Emotions
-240305 il Dan Klyn on the BASIC Framework
-240305 il Notes for living
-book: scattered but smart >
-240304 il Oliver Caviglioli on Graphic Organizers
-book: organise ideas pdf
-book: Teaching WalkThrus
-240303 uib Episode 270: Prototyping for Mobile with Dan LaCivita
-240303 il Austin Govella on the IA of Note-taking
-book: Information Architecture: Blueprints for the Web 4.4
-240302 Mike Rohde on Sketchnote Thinking
+	behavioral economics
+- 240310 il Nicole van der Hoeven on Obsidian
+- 240308 il Jim Kalbach on Jobs to Be Done
+- 240306 il Annie Murphy Paul on The Extended Mind
+	human behaviour
+	human cognition
+- book: the extended mind 4.4
+- 240306 il Hans Krueger on the Cycle of Emotions
+- 240305 il Dan Klyn on the BASIC Framework
+- 240305 il Notes for living
+	book: scattered but smart >
+- 240304 il Oliver Caviglioli on Graphic Organizers
+	book: organise ideas pdf
+	book: Teaching WalkThrus
+- 240303 uib Episode 270: Prototyping for Mobile with Dan LaCivita
+- 240303 il Austin Govella on the IA of Note-taking
+	book: Information Architecture: Blueprints for the Web 4.4
+- 240302 Mike Rohde on Sketchnote Thinking
 240301 il Steve Portigal on Research Skills
-book: donuts to dollars
-book: interviewing users
-book: How to Win Friends & Influence People+
-240301 Lorenzo Bernaschina on Gems Notes
-240229 il Erin Malone on Pattern Libraries
-book: designing social interfaces+
-240226 nng 5. ROI: The Business Value of UX (feat. Kate Moran, Sr. UX Specialist at NN/g)
+	book: donuts to dollars
+	book: interviewing users
+	book: How to Win Friends & Influence People+
+- 240301 Lorenzo Bernaschina on Gems Notes
+- 240229 il Erin Malone on Pattern Libraries
+	book: designing social interfaces+
+- 240226 nng 5. ROI: The Business Value of UX (feat. Kate Moran, Sr. UX Specialist at NN/g)
 240221 il David Rose on SuperSight
 book: enchanted objects+
 240220 il Karl Voit on Org Mode
