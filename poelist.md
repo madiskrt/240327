@@ -20,7 +20,7 @@ värske:
 - [ ] rosmariin
 
 piimad:
-- [x] piim
+- [ ] piim
 - [x] keefir
 - [x] hapukoor
 - [x] kodujuust
@@ -31,7 +31,7 @@ piimad:
 - [ ] avokaadomääre
 
 lihad:
-- [x] sink (broileririnnafilee)
+- [ ] sink (broileririnnafilee)
 - [ ] kanafilee
 - [ ] kala
 
@@ -54,3 +54,4 @@ varud:
 - [x] Barilla tomatikaste
 - [x] purustatud tomatid
 - [ ] kikerherned
+- [ ] pannkoogijahu
