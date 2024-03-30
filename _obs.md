@@ -1,6 +1,6 @@
 
 
-Advanced Tables
+Advanced Table
 
 
 
