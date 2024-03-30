@@ -159,36 +159,35 @@
 	book: badass making users awesome (pdf+)
 - 231221 041: Everything’s Terrible, and That’s Great with Matt Griffin
 - 231221 042: Practical Design Discovery with Dan Brown
-book: practical design discovery (a book apart)
-information architecture
-231219 043: Making New Designers with Laura Klein
-book: UX for lean startups
-book: ...
-book: doorbells, Portible, wars
-posdcaat: What is wrong with Ux?
-Rosenfeld media books
-231218 Animation at Work with Rachel Nabors
-https://userdefenders.com/podcast/page/10/
-231215 045: Criticize by Creating with Alexa Roman
-customer development
-book: running lean
-231214 Designing for Designers: Building InVision Studio with Tom Giannattasio
-231214 046: Good Design Favors the Curious with Joe Johnston
-podcast: Grumpy old geeks
-231211 047: The Web is Neither Good or Bad…nor is it Neutral. It’s an Amplifier with Jeremy Keith
-231210 Live Recording at An Event Apart Denver with Luke Wroblewski, Cassie McDaniel and Chris Coyier
-231210 048: Pick Yourself with Cassie McDaniel
-231208 049: User Research War Stories with Steve Portigal
-podcast: Dollars to donuts
-book: Interviewing users
-231208 050: We Can Be Heroes with Jason Ogle
-podcast: Creative culture
-231205 Mindful Technology with Liza Kindred
-book: The Power of Habit
-231205 051: Accessible Design = Better Design with Derek Featherstone
-231205 052: Shining a Light on Black Designers with Tim Hykes
-231204 053-2: Be a Good Ancestor with Alan Cooper (Part II)
-231203 053-1: Be a Good Ancestor with Alan Cooper (Part I)
+	book: practical design discovery (a book apart)
+	information architecture
+- 231219 043: Making New Designers with Laura Klein
+	book: UX for lean startups
+	book: doorbells, Portible, wars
+	posdcaat: What is wrong with Ux?
+	Rosenfeld media books
+- 231218 Animation at Work with Rachel Nabors
+	https://userdefenders.com/podcast/page/10/
+- 231215 045: Criticize by Creating with Alexa Roman
+	customer development
+	book: running lean
+- 231214 Designing for Designers: Building InVision Studio with Tom Giannattasio
+- 231214 046: Good Design Favors the Curious with Joe Johnston
+	podcast: Grumpy old geeks
+- 231211 047: The Web is Neither Good or Bad…nor is it Neutral. It’s an Amplifier with Jeremy Keith
+- 231210 Live Recording at An Event Apart Denver with Luke Wroblewski, Cassie McDaniel and Chris Coyier
+- 231210 048: Pick Yourself with Cassie McDaniel
+- 231208 049: User Research War Stories with Steve Portigal
+	podcast: Dollars to donuts
+	book: Interviewing users
+- 231208 050: We Can Be Heroes with Jason Ogle
+	podcast: Creative culture
+- 231205 Mindful Technology with Liza Kindred
+	book: The Power of Habit
+- 231205 051: Accessible Design = Better Design with Derek Featherstone
+- 231205 052: Shining a Light on Black Designers with Tim Hykes
+- 231204 053-2: Be a Good Ancestor with Alan Cooper (Part II)
+- 231203 053-1: Be a Good Ancestor with Alan Cooper (Part I)
 231201 The State of UX in AI with Josh Clark
 231128 Banish Your Inner Critic with Denise Jacobs (Part I)
 231127 054: UX Research on a Budget with Becca Kennedy
