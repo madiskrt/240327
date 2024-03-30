@@ -107,35 +107,35 @@
 	book: [disruptive research](https://www.amazon.com/Disruptive-Research-Discover-Revolutionary-Innovations/dp/1734097701)
 	book: our customers know you suck
 - 240124 uxp S02E09 (#319) Experience strategy
-240124 uib Episode 277: Designing for Technical Domains with Ridhima Gupta
-240124 uxb BDTP. Proven Ideas for A/B Testing with Sahil Patel
-240122 uib Episode 278: Product Management with Benjamin Humphrey
-240122 uxp #308 Systems thinking with Sheryl Cababa
-240122 uxp #309 Container queries and design thinking
-240116 023: Good Design is Humble with Austin Knight
-podcast: UX & growth
-240116 024: Seeing the Invisible with Francisco Inchauste
-240115 025: UX Designers Work with Users with Ashley Karr
-book: Interaction design beyond HCI (Yvonne)
-book: Persuasive Design (Jacko?)
-240114 026: We Are Not Our Users with Nikkel Blaase
-240114 027: Looking Down the Road with Aarron Walter
-book: Design for emotion
-240112 Hooked: How to Build Habit-Forming Products with Nir Eyal
-240111 028: Be Persistent with Chris Coyier
-240111 029: Be Relentless with Ling Lim
-240110 030: Content for All with Aaron Gustafson
-book: adaptive web design
-240109 031: Getting Scrappy with Mat Marquis
-book: Javascript for designers (Lara Hogan intro + book demystifing)
-240109 032: There is No There with Sarah Doody
-book: Essentialism
-240108 033: Design is About People with Andrea Picchi
-cognitive psychology
-book: Creative confidence (design thinking)
-240107 Demystifying Public Speaking with Lara Hogan
-240107 034: Great Products Start with Empathy with Jonathan Pimento
-240107 035: Minding the Product Gap with Samuel Hulick
+- 240124 uib Episode 277: Designing for Technical Domains with Ridhima Gupta
+- 240124 uxb BDTP. Proven Ideas for A/B Testing with Sahil Patel
+- 240122 uib Episode 278: Product Management with Benjamin Humphrey
+- 240122 uxp #308 Systems thinking with Sheryl Cababa
+- 240122 uxp #309 Container queries and design thinking
+- 240116 023: Good Design is Humble with Austin Knight
+	podcast: UX & growth
+- 240116 024: Seeing the Invisible with Francisco Inchauste
+- 240115 025: UX Designers Work with Users with Ashley Karr
+	book: Interaction design beyond HCI (Yvonne)
+	book: Persuasive Design (Jacko?)
+- 240114 026: We Are Not Our Users with Nikkel Blaase
+- 240114 027: Looking Down the Road with Aarron Walter
+	book: Design for emotion
+- 240112 Hooked: How to Build Habit-Forming Products with Nir Eyal
+- 240111 028: Be Persistent with Chris Coyier
+- 240111 029: Be Relentless with Ling Lim
+- 240110 030: Content for All with Aaron Gustafson
+	book: adaptive web design
+- 240109 031: Getting Scrappy with Mat Marquis
+	book: Javascript for designers (Lara Hogan intro + book demystifing)
+- 240109 032: There is No There with Sarah Doody
+	book: Essentialism
+- 240108 033: Design is About People with Andrea Picchi
+	cognitive psychology
+	book: Creative confidence (design thinking)
+- 240107 Demystifying Public Speaking with Lara Hogan
+- 240107 034: Great Products Start with Empathy with Jonathan Pimento
+- 240107 035: Minding the Product Gap with Samuel Hulick
 231229 036: No Designer Left Behind with Nick Finck
 book list blog
 book: design is a job
