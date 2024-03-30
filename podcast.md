@@ -136,19 +136,19 @@
 - 240107 Demystifying Public Speaking with Lara Hogan
 - 240107 034: Great Products Start with Empathy with Jonathan Pimento
 - 240107 035: Minding the Product Gap with Samuel Hulick
-231229 036: No Designer Left Behind with Nick Finck
-book list blog
-book: design is a job
-ux for change
-231229 Cultivating a Creative Culture with Justin Dauer
-231228 037: Design in Life or Death Situations with Andy Vitale
-minimum lovable experience
-book: grit (Angela ..)
-book: articulating design decisions
-231227 038: We Need More Crappy Work with Femke
-design & marketing
-book: start with why
-book: power of habit
+- 231229 036: No Designer Left Behind with Nick Finck
+	book list blog
+	book: design is a job
+	ux for change
+- 231229 Cultivating a Creative Culture with Justin Dauer
+- 231228 037: Design in Life or Death Situations with Andy Vitale
+	minimum lovable experience
+	book: grit (Angela ..)
+	book: articulating design decisions
+- 231227 038: We Need More Crappy Work with Femke
+	design & marketing
+	book: start with why
+	book: power of habit
 231225 Part I: Mixed Reality & the Future of Design with Austin Knight
 ux patterns
 podcast: ux and growth
