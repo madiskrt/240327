@@ -91,13 +91,13 @@
 	book: Designing web usability
 - 240203 Design for Real Life with Eric Meyer & Sara Wachter-Boettcher
 - 240202 Best of Design Matters: Ethan Hawke
-book: the practice
-240201 020-1: Stay Enchanted with Jeffrey Zeldman (Part I)
-book: secrets of succesful websites
-240130 uxp Presenting design work with Ben Sauer
-240130 uid 021: Designing for Happiness with Drew Lepp
-book: adapting?!
-240130 uib BDTP. Re-engagement Emails with Tim Hart
+- book: the practice
+- 240201 020-1: Stay Enchanted with Jeffrey Zeldman (Part I)
+	book: secrets of succesful websites
+- 240130 uxp Presenting design work with Ben Sauer
+- 240130 uid 021: Designing for Happiness with Drew Lepp
+	book: adapting?!
+- 240130 uib BDTP. Re-engagement Emails with Tim Hart
 240129 022: The Little Details can Make a Big Difference with Jordan Dobson
 240129 uid Episode 272: User Respect with Christina Nguyen White
 240128 uib BDTP. Marketing for Humans with Sarah McCredie
