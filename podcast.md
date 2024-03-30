@@ -98,14 +98,14 @@
 - 240130 uid 021: Designing for Happiness with Drew Lepp
 	book: adapting?!
 - 240130 uib BDTP. Re-engagement Emails with Tim Hart
-240129 022: The Little Details can Make a Big Difference with Jordan Dobson
-240129 uid Episode 272: User Respect with Christina Nguyen White
-240128 uib BDTP. Marketing for Humans with Sarah McCredie
-240128 uib BDTP. QA in Email Marketing with Michael Wilding
-240125 uib BDTP. Marketing for All-in-one Platforms with Geoff Roberts
-240124 uib Episode 276: Customer Satisfaction with Debbie Levitt
-book: disruptive research
-book: our customers know you suck
+- 240129 022: The Little Details can Make a Big Difference with Jordan Dobson
+- 240129 uid Episode 272: User Respect with Christina Nguyen White
+- 240128 uib BDTP. Marketing for Humans with Sarah McCredie
+- 240128 uib BDTP. QA in Email Marketing with Michael Wilding
+- 240125 uib BDTP. Marketing for All-in-one Platforms with Geoff Roberts
+- 240124 uib Episode 276: Customer Satisfaction with Debbie Levitt
+	book: [disruptive research](https://www.amazon.com/Disruptive-Research-Discover-Revolutionary-Innovations/dp/1734097701)
+	book: our customers know you suck
 240124 uxp S02E09 (#319) Experience strategy
 240124 uib Episode 277: Designing for Technical Domains with Ridhima Gupta
 240124 uxb BDTP. Proven Ideas for A/B Testing with Sahil Patel
