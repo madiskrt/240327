@@ -21,7 +21,7 @@
 -  240318 Donna Lichaw on Stories
 - 240317 Louis Rosenfeld on Managing
 - 240316 Christian Crumlish on Product Management
-240316 Andy Polaine on Service Design
+- 240316 Andy Polaine on Service Design
 podcast: the power of ten
 book: service design 4.3 dl >
 systems thinking
