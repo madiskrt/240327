@@ -106,7 +106,7 @@
 - 240124 uib Episode 276: Customer Satisfaction with Debbie Levitt
 	book: [disruptive research](https://www.amazon.com/Disruptive-Research-Discover-Revolutionary-Innovations/dp/1734097701)
 	book: our customers know you suck
-240124 uxp S02E09 (#319) Experience strategy
+- 240124 uxp S02E09 (#319) Experience strategy
 240124 uib Episode 277: Designing for Technical Domains with Ridhima Gupta
 240124 uxb BDTP. Proven Ideas for A/B Testing with Sahil Patel
 240122 uib Episode 278: Product Management with Benjamin Humphrey
