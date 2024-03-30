@@ -33,7 +33,7 @@ piimad:
 lihad:
 - [ ] sink (broileririnnafilee)
 - [ ] kanafilee
-- [ ] kala
+- [x] kala ✅ 2024-03-30
 
 mittesöödav:
 - [ ] salvakad
