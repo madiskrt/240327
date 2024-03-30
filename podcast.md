@@ -280,35 +280,35 @@
 - 221127 046: Good Design Favors the Curious with Joe Johnston
 	podcast: Grumphy old geeks
 - 221124 038: We Need More Crappy Work with Femke
-221121 Cultivating a Creative Culture with Justin Dauer
-221115 032: There is No There with Sarah Doody
-essentialism (creg)
-221110 023: Good Design is Humble with Austin Knight
-hubspot - culture
-for user and business
-UX and growth podcast
-221108 018: The Beauty of Simplicity with David Demaree
-git for humans
-221107 019: The Power of Design Patterns with Pek Pongpaet
-221106 016: Meaning Comes from Making with Alexa Leigh Herasimchuk
-"meaning comes from making"
-just design, simmons (socially critical design causes)
-designing for social change
-221106 014: Design Write with Khoi Vinh
-inmates running
-221105 013: Practice What You Do with Dan Mall
-lean ux
-221101 011: The Best Interface is No Interface with Golden Krishna
- designing for digital age
-221022 007: Focus More on Solving Problems and Less On Dribbble Likes with Rafal Tomal
-ux tool: envision?
-221019 #224 The business value of design with Jeanne Liedtka
-design for growth
-design thinking
-221017 004: Use the Materials You’re Given with Christopher Schmitt
-neuro web design
-221011 002: Don’t Let Anything Get in the Way of What You Want to Build with Josh Tucker
-lean
-221006 283 Core web vitals with Katie Hempenius
-221006 #209 Paper prototypes
+- 221121 Cultivating a Creative Culture with Justin Dauer
+- 221115 032: There is No There with Sarah Doody
+	essentialism (creg)
+- 221110 023: Good Design is Humble with Austin Knight
+	hubspot - culture
+	for user and business
+	UX and growth podcast
+- 221108 018: The Beauty of Simplicity with David Demaree
+	git for humans
+- 221107 019: The Power of Design Patterns with Pek Pongpaet
+- 221106 016: Meaning Comes from Making with Alexa Leigh Herasimchuk
+	"meaning comes from making"
+	just design, simmons (socially critical design causes)
+	designing for social change
+- 221106 014: Design Write with Khoi Vinh
+	inmates running
+- 221105 013: Practice What You Do with Dan Mall
+	lean ux
+- 221101 011: The Best Interface is No Interface with Golden Krishna
+	 designing for digital age
+- 221022 007: Focus More on Solving Problems and Less On Dribbble Likes with Rafal Tomal
+	ux tool: envision?
+- 221019 #224 The business value of design with Jeanne Liedtka
+	design for growth
+	design thinking
+- 221017 004: Use the Materials You’re Given with Christopher Schmitt
+	neuro web design
+- 221011 002: Don’t Let Anything Get in the Way of What You Want to Build with Josh Tucker
+	lean
+- 221006 283 Core web vitals with Katie Hempenius
+- 221006 #209 Paper prototypes
 
