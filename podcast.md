@@ -253,33 +253,33 @@
 - 230124 073: The Unstoppable Designer with Jeff Gothelf
 	facilitation
 - 230122 071: User Defenders Live – A Panel on Design Accessibility, Diversity & Ethics with Mina Markham, Derek Featherstone and Farai Madzima
-book: Joy Inc.
-230117 069: We Are All Pioneers with Sophia Prater
-Grit
-Atomic Habits
-Elements of UX
-230105 
-book: Hooked: How to Build Habit-Forming Products
-book: Indistractable: How to Control Your Attention and Choose Your Life
-230103 063: Mindset & Learning How to Learn with Jessica Ivins
-book: Mindset
-230102 062: UX School of No B.S. with Joe Natoli
-221226 D Norman D1e21 d2e6
-221224 057: Interviewing Like a Boss with Andy Vitale
-storytelling
-221222 055: How to Get Your Foot in the Door with Andy Budd
-221220 Radical Empathy with Seth Godin
-This is Marketing
-221219 054: UX Research on a Budget with Becca Kennedy
-221218 Banish Your Inner Critic with Denise Jacobs (Part I)
-Mindset
-221213 053-2: Be a Good Ancestor with Alan Cooper (Part II
-Inmates...
-221205 047: The Web is Neither Good or Bad…nor is it Neutral. It’s an Amplifier with Jeremy Keith
-221203 041: Everything’s Terrible, and That’s Great with Matt Griffin
-221127 046: Good Design Favors the Curious with Joe Johnston
-podcast: Grumphy old geeks
-221124 038: We Need More Crappy Work with Femke
+	book: Joy Inc.
+- 230117 069: We Are All Pioneers with Sophia Prater
+	Grit
+	Atomic Habits
+	Elements of UX
+- 230105 
+	book: Hooked: How to Build Habit-Forming Products
+	book: Indistractable: How to Control Your Attention and Choose Your Life
+- 230103 063: Mindset & Learning How to Learn with Jessica Ivins
+	book: Mindset
+- 230102 062: UX School of No B.S. with Joe Natoli
+- 221226 D Norman D1e21 d2e6
+- 221224 057: Interviewing Like a Boss with Andy Vitale
+	storytelling
+- 221222 055: How to Get Your Foot in the Door with Andy Budd
+- 221220 Radical Empathy with Seth Godin
+	This is Marketing
+- 221219 054: UX Research on a Budget with Becca Kennedy
+- 221218 Banish Your Inner Critic with Denise Jacobs (Part I)
+	Mindset
+- 221213 053-2: Be a Good Ancestor with Alan Cooper (Part II
+	Inmates...
+- 221205 047: The Web is Neither Good or Bad…nor is it Neutral. It’s an Amplifier with Jeremy Keith
+- 221203 041: Everything’s Terrible, and That’s Great with Matt Griffin
+- 221127 046: Good Design Favors the Curious with Joe Johnston
+	podcast: Grumphy old geeks
+- 221124 038: We Need More Crappy Work with Femke
 221121 Cultivating a Creative Culture with Justin Dauer
 221115 032: There is No There with Sarah Doody
 essentialism (creg)
