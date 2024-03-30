@@ -3,4 +3,3 @@
 
 auto
 - [ ] pesu ja puhastus
-- [ ] tlf

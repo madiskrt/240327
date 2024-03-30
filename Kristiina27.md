@@ -5,4 +5,3 @@
 - [ ] vannitoa lae värvimine
 - [ ] köögitasapinna lihvimine ⏫ 
 - [ ] lastetoa radiaatori leke
-- [ ] telf

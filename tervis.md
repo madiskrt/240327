@@ -1,5 +1,4 @@
 
-tlf
 kontroll ECG enne suve
 - [ ] Iida vaktsiin teha mais ⏫ 
 
