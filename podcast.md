@@ -188,40 +188,40 @@
 - 231205 052: Shining a Light on Black Designers with Tim Hykes
 - 231204 053-2: Be a Good Ancestor with Alan Cooper (Part II)
 - 231203 053-1: Be a Good Ancestor with Alan Cooper (Part I)
-231201 The State of UX in AI with Josh Clark
-231128 Banish Your Inner Critic with Denise Jacobs (Part I)
-231127 054: UX Research on a Budget with Becca Kennedy
-054+ Imposter Syndrome: Why We Have it, and How to Kick it in the Privates!
-054+ Radical Empathy with Seth Godin
-book: this is marketing
-231124 055: How to Get Your Foot in the Door with Andy Budd
-231123 056: Building an Effective UX Portfolio with Sarah Doody
-231120 057: Interviewing Like a Boss with Andy Vitale
-231115 058: Finding the Right Cultural Fit with Justin Dauer
-231109 .. 50% 059: Writing for Designers with Scott Kubie
-231106 060: Improv & UX?! Yes, and...with Mike Gorgone
-thunder nerdsp podcast?
-creative culture podcast
-231106 061: Empathy as a Design Superpower with Jason Ogle
-.... 062 [Encore] Feet on the Ground, Eyes on the Stars: The True Story of a Real Rocket Man with G.A. “Jim” Ogle
-https://userdefenders.com/podcast/page/4/
-.. 063: Mindset & Learning How to Learn with Jessica Ivins (medium)
-book: Mindset
-book: Dan Brown communication
-book: simple and usable
-book: letting go of the words
-231021 064: How to Become Indistractable with Nir Eyal
-book: Hooked
-book: Ndistractable
-231017 065: Yes, AI will Replace Designers with Jasmine Oh
-231015..  066: Is Web Design Dead? with Jeffrey Zeldman
-designers are solving problems
-https://userdefenders.com/podcast/page/4/
-231009 .. 067: Design for How People Think with John Whalen
-book: Design what people think
-book: Thinking fast and slow
-book: Designing for emotion
-book: Digital Transformation (Lindsey ..)
+- 231201 The State of UX in AI with Josh Clark
+- 231128 Banish Your Inner Critic with Denise Jacobs (Part I)
+- 231127 054: UX Research on a Budget with Becca Kennedy
+- 054+ Imposter Syndrome: Why We Have it, and How to Kick it in the Privates!
+- 054+ Radical Empathy with Seth Godin
+	book: this is marketing
+- 231124 055: How to Get Your Foot in the Door with Andy Budd
+- 231123 056: Building an Effective UX Portfolio with Sarah Doody
+- 231120 057: Interviewing Like a Boss with Andy Vitale
+- 231115 058: Finding the Right Cultural Fit with Justin Dauer
+- 231109 .. 50% 059: Writing for Designers with Scott Kubie
+- 231106 060: Improv & UX?! Yes, and...with Mike Gorgone
+	thunder nerdsp podcast?
+	creative culture podcast
+- 231106 061: Empathy as a Design Superpower with Jason Ogle
+- ... 062 [Encore] Feet on the Ground, Eyes on the Stars: The True Story of a Real Rocket Man with G.A. “Jim” Ogle
+	https://userdefenders.com/podcast/page/4/
+- .. 063: Mindset & Learning How to Learn with Jessica Ivins (medium)
+	book: Mindset
+	book: Dan Brown communication
+	book: simple and usable
+	book: letting go of the words
+- 231021 064: How to Become Indistractable with Nir Eyal
+	book: Hooked
+	book: Ndistractable
+- 231017 065: Yes, AI will Replace Designers with Jasmine Oh
+- 231015..  066: Is Web Design Dead? with Jeffrey Zeldman
+	designers are solving problems
+	https://userdefenders.com/podcast/page/4/
+- 231009 .. 067: Design for How People Think with John Whalen
+	book: Design what people think
+	book: Thinking fast and slow
+	book: Designing for emotion
+	book: Digital Transformation (Lindsey ..)
 231002 .. 069: We Are All Pioneers with Sophia Prater
 Grit
 Atomic Habits
