@@ -4,36 +4,36 @@ mida on / mida ei ole:
 
 värske:
 - [x] tomat
-- [ ] kurk
+- [x] kurk
 - [x] kartul
-- [x] porgand
+- [ ] porgand
 - [x] brokkol
 - [x] lillkapsas
 - [x] abokaado
 - [x] õunad
 - [ ] banaan
-- [ ] kiivi
+- [x] kiivi
 - [ ] pirn
 - [x] sibulad
-- [ ] küüslauk
+- [x] küüslauk
 - [ ] basiilik
 - [ ] rosmariin
 
 piimad:
-- [ ] piim
+- [x] piim
 - [x] keefir
 - [x] hapukoor
 - [x] kodujuust
-- [ ] barista
+- [x] barista
 - [x] juust
 - [x] fetajuust
 - [ ] või
 - [ ] avokaadomääre
 
 lihad:
-- [ ] sink (broileririnnafilee)
+- [x] sink (broileririnnafilee)
 - [ ] kanafilee
-- [x] kala ✅ 2024-03-30
+- [x] kala
 
 mittesöödav:
 - [ ] salvakad
@@ -54,4 +54,4 @@ varud:
 - [x] Barilla tomatikaste
 - [x] purustatud tomatid
 - [ ] kikerherned
-- [ ] pannkoogijahu
+- [x] pannkoogijahu
