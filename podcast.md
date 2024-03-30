@@ -19,8 +19,8 @@
 	- book: Re-work by Jason Fried and David Heinemeier Hansson dl >
 - 240318 Trip O’Dell on Dyslexia
 -  240318 Donna Lichaw on Stories
-240317 Louis Rosenfeld on Managing
-240316 Christian Crumlish on Product Management
+- 240317 Louis Rosenfeld on Managing
+- 240316 Christian Crumlish on Product Management
 240316 Andy Polaine on Service Design
 podcast: the power of ten
 book: service design 4.3 dl >
