@@ -1,5 +1,5 @@
 
 - [ ] märk koertele rannateele
 - [ ] halupuud kevadeks
-- [ ] valge ratas?
+- [ ] valge ratas linna?
 - kanad suveks
