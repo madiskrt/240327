@@ -1,4 +1,5 @@
 
+- 240331 il Kevin M. Hoffman on Proposals
 - 240331 34. Data-Driven Decision-Making and Intranet Design (feat. Christian Knoebel and Charlie Kreitzberg, Princeton University)
 - 240328 Bonus Episode: Design’s Role as AI Expands (Feat. Don Norman and Sarah Gibbons, VP at NN/g)
 - 240328 # Nodes of Design#108: Heuristics to AI: The Future of UX with Jakob Nielsen
