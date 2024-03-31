@@ -1,6 +1,6 @@
 
 kontroll ECG enne suve
-- [ ] Iida vaktsiin teha mais 🔼
+- [ ] Iida vaktsiin teha aprill 🔼 📅 2024-04-15 
 
 trenniskäigud tabel [link](https://docs.google.com/spreadsheets/d/1HZf4cDL4716lkkL-UVDJTMvBe2NElg1nX3z8Emo_ZVQ/edit?usp=sharing)
 - karskusplaan al 20.11.2023 - ...
