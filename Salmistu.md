@@ -1,6 +1,6 @@
 
 - [ ] nõudepesumasin ⏫ 
-- [ ] marjapõõsad ⏳ 2024-04-13 
+- [ ] marjapõõsad aeda (Hortes) ⏳ 2024-04-13 
 - [ ] paekivid jalgtee jaoks
 - [ ] märk koertele rannateele
 - [ ] halupuud kevadeks ⏳ 2024-05-01 
