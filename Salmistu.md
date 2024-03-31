@@ -1,4 +1,5 @@
 
+- [ ] paekivid tee jaoks
 - [ ] märk koertele rannateele
 - [ ] halupuud kevadeks
 - [ ] valge ratas linna?
