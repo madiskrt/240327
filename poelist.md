@@ -1,16 +1,16 @@
 
 mida on / mida ei ole:
-- [x] leib
+- [ ] leib
 
 värske:
 - [x] tomat
 - [x] kurk
-- [x] kartul
+- [ ] kartul
 - [ ] porgand
-- [x] brokkol
-- [x] lillkapsas
+- [ ] brokkol
+- [ ] lillkapsas
 - [x] abokaado
-- [x] õunad
+- [ ] õunad
 - [ ] banaan
 - [x] kiivi
 - [ ] pirn
@@ -21,7 +21,7 @@ värske:
 
 piimad:
 - [x] piim
-- [x] keefir
+- [ ] keefir
 - [x] hapukoor
 - [x] kodujuust
 - [x] barista
