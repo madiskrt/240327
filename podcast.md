@@ -1,5 +1,7 @@
 
 - 240401 uib Episode 28: Psychological Principles of Persuasive Design with Victor Yocco
+- BJ Fogg
+- Chialdini
 - book: design for the mind
 - 240401 nng 33. Tracking UX Progress with Metrics (feat. Dr. John Pagonis, UXMC, Qualitative and Quantitative Researcher)
 - 240331 il Kevin M. Hoffman on Proposals
