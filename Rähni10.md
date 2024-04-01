@@ -9,3 +9,4 @@
 	- [ ] alustada keldri koristusega ja jäätmejaama käik ⏳ 2024-04-15 🔼 
 	- [ ] taarat viia
 - negatiividest pildid teha
+
