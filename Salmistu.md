@@ -1,5 +1,6 @@
 
-- [ ] nõudepesumasin ⏫ 
+-  nõudepesumasin
+	- [ ] taaduga nõudepesumasina tööd kokku leppida 🔺 
 - [ ] marjapõõsad aeda (Hortes) ⏳ 2024-04-13 
 - [ ] paekivid jalgtee jaoks
 - [ ] märk koertele rannateele
