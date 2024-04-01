@@ -10,4 +10,17 @@
 	- [ ] taarat viia
 - negatiividest pildid teha
 
-märts: 321 ja 444
+ühistu kommunaalid kaust [link](https://drive.google.com/drive/folders/1Zkv9v9fI9V0a7ZcAaSlHNOiu0NJRhIud?usp=drive_link)
+2024:
+
+| 2024  | külm | soe | kommud | lisad  |
+| ----- | ---- | --- | ------ | ------ |
+| jaan  | 315  | 434 | 268,78 |        |
+| veebr | 318  | 440 | 223,15 | soodus |
+| märts | 321  | 444 |        |        |
+
+| 2023 | külm | soe | kommud | lisad |
+| ---- | ---- | --- | ------ | ----- |
+| okt  |      |     | 160,11 |       |
+| nov  |      |     | 197,21 |       |
+| dets | 313  | 430 | 225,01 |       |
