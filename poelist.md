@@ -1,19 +1,19 @@
 
 mida on / mida ei ole:
-- [ ] leib
+- [x] leib
 
 värske:
 - [x] tomat
 - [x] kurk
 - [ ] kartul
-- [ ] porgand
+- [x] porgand
 - [ ] brokkol
 - [ ] lillkapsas
 - [x] abokaado
 - [ ] õunad
-- [ ] banaan
-- [x] kiivi
-- [ ] pirn
+- [x] banaan
+- [ ] kiivi
+- [x] pirn
 - [x] sibulad
 - [x] küüslauk
 - [ ] basiilik
@@ -23,7 +23,7 @@ piimad:
 - [x] piim
 - [ ] keefir
 - [x] hapukoor
-- [x] kodujuust
+- [ ] kodujuust
 - [x] barista
 - [x] juust
 - [x] fetajuust
@@ -33,11 +33,11 @@ piimad:
 lihad:
 - [x] sink (broileririnnafilee)
 - [ ] kanafilee
-- [x] kala
+- [ ] kala
 
 mittesöödav:
 - [ ] salvakad
-- [x] wc paber
+- [ ] wc paber
 - [ ] pesugeel sinine
 - [ ] pesuvalgendi
 - [ ] pesuäädikas
@@ -45,12 +45,12 @@ mittesöödav:
 - [ ] hambapasta
 
 varud:
-- [x] kohvi
+- [ ] kohvi
 - [x] päikesekuivatatud tomatid
 - [x] kapparid
-- [ ] tatar
-- [x] kaerahelbed
-- [ ] kaerajahu
+- [x] tatar
+- [ ] kaerahelbed
+- [x] kaerajahu
 - [x] Barilla tomatikaste
 - [x] purustatud tomatid
 - [ ] kikerherned
