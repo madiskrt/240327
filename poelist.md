@@ -1,9 +1,11 @@
 
 mida on / mida ei ole:
 - [x] leib
+- [ ] mahl
 
 värske:
-- [x] tomat
+- [x] jääsalat
+- [ ] tomat
 - [x] kurk
 - [ ] kartul
 - [x] porgand
@@ -34,6 +36,7 @@ lihad:
 - [x] sink (broileririnnafilee)
 - [ ] kanafilee
 - [ ] kala
+- [x] liha
 
 mittesöödav:
 - [ ] salvakad
@@ -45,11 +48,11 @@ mittesöödav:
 - [ ] hambapasta
 
 varud:
-- [ ] kohvi
+- [x] kohvi
 - [x] päikesekuivatatud tomatid
 - [x] kapparid
 - [x] tatar
-- [ ] kaerahelbed
+- [x] kaerahelbed
 - [x] kaerajahu
 - [x] Barilla tomatikaste
 - [x] purustatud tomatid
