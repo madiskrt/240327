@@ -1,7 +1,7 @@
 
 mida on / mida ei ole:
 - [x] leib
-- [ ] mahl
+- [x] mahl
 
 värske:
 - [x] jääsalat
