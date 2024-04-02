@@ -1,4 +1,5 @@
 
+- 240402 nng 9. You Are Not the User: How the the False Consensus Effect Can Lead Good Design Astray (feat. Alita Joyce, UX Specialist at NN/g)
 - 240401 uib Episode 28: Psychological Principles of Persuasive Design with Victor Yocco
 	- BJ Fogg
 	- Chialdini
