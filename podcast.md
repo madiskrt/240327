@@ -1,7 +1,8 @@
 
 - 240402 uib Episode 30: Describing Customer Motivation (Jobs to Be Done) with Eric White
 	- jobs to be done?
-	- book: lean customer development
+	- book: # Lean Customer Development: Building Products Your Customers Will Buy [amz](https://www.amazon.com/Lean-Customer-Development-Hardcover-version/dp/1449356354) 4.5 epub dl 
+	- book: # Jobs to Be Done: A Roadmap for Customer-Centered Innovation [amazon](https://www.amazon.com/Jobs-Be-Done-Customer-Centered-Innovation/dp/0814438032) 4.2
 - 240402 nng 9. You Are Not the User: How the the False Consensus Effect Can Lead Good Design Astray (feat. Alita Joyce, UX Specialist at NN/g)
 - 240401 uib Episode 28: Psychological Principles of Persuasive Design with Victor Yocco
 	- BJ Fogg
