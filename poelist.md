@@ -7,7 +7,7 @@ värske:
 - [x] jääsalat
 - [ ] tomat
 - [x] kurk
-- [ ] kartul
+- [x] kartul
 - [x] porgand
 - [ ] brokkol
 - [ ] lillkapsas
@@ -23,14 +23,15 @@ värske:
 
 piimad:
 - [x] piim
-- [ ] keefir
+- [x] keefir
 - [x] hapukoor
 - [ ] kodujuust
 - [x] barista
 - [x] juust
 - [x] fetajuust
 - [x] või
-- [ ] avokaadomääre
+- [x] avokaadomääre
+- [ ] jäätis
 
 lihad:
 - [x] sink (broileririnnafilee)
@@ -39,19 +40,22 @@ lihad:
 - [x] liha
 
 mittesöödav:
-- [ ] salvakad
+- [x] salvakad
 - [ ] wc paber
 - [ ] pesugeel sinine
 - [ ] pesuvalgendi
 - [ ] pesuäädikas
 - [ ] wc puhastusvahend
 - [ ] hambapasta
+- [ ] bioprügi kotid
+- [ ] tavalise prügi kotid
 
-varud:
+varia/varud:
+- [ ] võileivakurk
 - [x] kohvi
 - [x] päikesekuivatatud tomatid
 - [x] kapparid
-- [x] tatar
+- [ ] tatar
 - [x] kaerahelbed
 - [x] kaerajahu
 - [x] Barilla tomatikaste
