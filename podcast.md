@@ -1,4 +1,5 @@
 
+- 240403 uib BDTP. Uncovering Customer Insights Using JTBD with Aggelos Mouzakitis
 - 240402 uib Episode 30: Describing Customer Motivation (Jobs to Be Done) with Eric White
 	- jobs to be done?
 	- book: # Lean Customer Development: Building Products Your Customers Will Buy [amz](https://www.amazon.com/Lean-Customer-Development-Hardcover-version/dp/1449356354) 4.5 epub dl 
