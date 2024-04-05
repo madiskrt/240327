@@ -4,18 +4,18 @@ mida on / mida ei ole:
 - [x] mahl
 
 värske:
-- [x] jääsalat
+- [ ] jääsalat
 - [ ] tomat
-- [x] kurk
+- [ ] kurk
 - [x] kartul
 - [x] porgand
 - [ ] brokkol
 - [ ] lillkapsas
 - [x] abokaado
-- [ ] õunad
-- [x] banaan
+- [x] õunad
+- [ ] banaan
 - [ ] kiivi
-- [x] pirn
+- [ ] pirn
 - [x] sibulad
 - [x] küüslauk
 - [ ] basiilik
@@ -24,20 +24,20 @@ värske:
 piimad:
 - [x] piim
 - [x] keefir
-- [x] hapukoor
+- [ ] hapukoor
 - [ ] kodujuust
 - [x] barista
 - [x] juust
 - [x] fetajuust
 - [x] või
-- [x] avokaadomääre
+- [ ] avokaadomääre
 - [ ] jäätis
 
 lihad:
 - [x] sink (broileririnnafilee)
 - [ ] kanafilee
 - [ ] kala
-- [x] liha
+- [ ] liha
 
 mittesöödav:
 - [x] salvakad
