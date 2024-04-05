@@ -9,6 +9,9 @@ trenniskäigud tabel [link](https://docs.google.com/spreadsheets/d/1HZf4cDL4716l
 Drive kaust [link](https://drive.google.com/drive/folders/12mytIbwScsFgjtR2tFgdV3VrJHsqvVOU)
 
 
-| kp     | Kol |
-| ------ | --- |
-| 240322 | 3.3 |
+| kp     | Kol | Hb  | HDL  | LDL  | Lipo a |
+| ------ | --- | --- | ---- | ---- | ------ |
+| 240322 | 3.3 |     |      |      |        |
+| 240314 |     | 127 |      |      |        |
+| 240110 | 3.4 | 130 | 1.39 | 1.66 | 274    |
+| 231229 |     | 127 |      |      |        |
