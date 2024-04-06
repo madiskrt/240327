@@ -1,19 +1,20 @@
 
 mida on / mida ei ole:
-- [x] leib
+- [ ] leib
 - [x] mahl
+- [ ] kummikommid 😋
 
 värske:
-- [ ] jääsalat
+- [x] jääsalat
 - [ ] tomat
-- [ ] kurk
+- [x] kurk
 - [x] kartul
 - [x] porgand
 - [ ] brokkol
 - [ ] lillkapsas
 - [x] abokaado
-- [x] õunad
-- [ ] banaan
+- [ ] õunad
+- [x] banaan
 - [ ] kiivi
 - [ ] pirn
 - [x] sibulad
@@ -27,17 +28,17 @@ piimad:
 - [ ] hapukoor
 - [ ] kodujuust
 - [x] barista
-- [x] juust
+- [ ] juust
 - [x] fetajuust
 - [x] või
 - [ ] avokaadomääre
 - [ ] jäätis
 
 lihad:
-- [x] sink (broileririnnafilee)
+- [ ] sink (broileririnnafilee)
 - [ ] kanafilee
 - [ ] kala
-- [ ] liha
+- [x] liha
 
 mittesöödav:
 - [x] salvakad

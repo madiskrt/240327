@@ -1,4 +1,6 @@
 
+- 240404 nng 31. Service Design 101 (feat. Thomas Wilson, UXMC, Senior Principal Service Designer & Strategist)
+	- service design
 - 240403 uib BDTP. Uncovering Customer Insights Using JTBD with Aggelos Mouzakitis
 - 240402 uib Episode 30: Describing Customer Motivation (Jobs to Be Done) with Eric White
 	- jobs to be done?
