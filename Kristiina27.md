@@ -7,3 +7,4 @@
 - [ ] vannitoa lae värvimine
 - [ ] köögitasapinna lihvimine ⏫ 
 - [ ] lastetoa radiaatori leke
+- [ ] põrandate õlitus 🔽 
