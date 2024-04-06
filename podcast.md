@@ -27,7 +27,7 @@
 - 240319 Peter Morville on Seductive Information
 	- book: Information Architecture for the Web and Beyond, by Louis Rosenfeld, Peter Morville, and Jorge Arango 4.5 dl >
 	- book: Search Patterns: Design for Discovery by Peter Morville and Jeffery Callender 4.0
-- 240318 Jessica Ivins on [[Getting Things Done]]
+- 240318 Jessica Ivins on [[_Getting Things Done]]
 	- book: gettings things done (Allen) dl >
 	- book: Re-work by Jason Fried and David Heinemeier Hansson dl >
 - 240318 Trip O’Dell on Dyslexia
