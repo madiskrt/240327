@@ -13,17 +13,17 @@ värske:
 - [ ] brokkol
 - [ ] lillkapsas
 - [x] abokaado
-- [ ] õunad
+- [x] õunad
 - [x] banaan
-- [ ] kiivi
-- [ ] pirn
+- [x] kiwi
+- [x] pirn
 - [x] sibulad
 - [x] küüslauk
 - [ ] basiilik
 - [ ] rosmariin
 
 piimad:
-- [ ] piim
+- [x] piim
 - [ ] keefir
 - [ ] hapukoor
 - [ ] kodujuust
@@ -32,12 +32,12 @@ piimad:
 - [x] fetajuust
 - [x] või
 - [ ] avokaadomääre
-- [ ] jäätis
+- [x] jäätis
 
 lihad:
 - [x] sink (broileririnnafilee)
 - [ ] kanafilee
-- [ ] kala
+- [x] kala
 - [x] liha
 
 mittesöödav:
