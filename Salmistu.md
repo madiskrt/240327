@@ -9,3 +9,9 @@
 - [ ] aia parandus
 - kanad suveks Kallastelt
 - kirjutada ka teisele kanade tädile
+
+
+| kp  | asukoht | m2  | hind | kv  | city |
+| --- | ------- | --- | ---- | --- | ---- |
+|     |         |     |      |     |      |
+
