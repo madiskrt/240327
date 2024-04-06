@@ -1,13 +1,13 @@
 
 mida on / mida ei ole:
-- [ ] leib
+- [x] leib
 - [x] mahl
-- [ ] kummikommid 😋
+- [x] kummikommid 😋
 
 värske:
-- [x] jääsalat
+- [ ] jääsalat
 - [ ] tomat
-- [x] kurk
+- [ ] kurk
 - [x] kartul
 - [x] porgand
 - [ ] brokkol
@@ -23,19 +23,19 @@ värske:
 - [ ] rosmariin
 
 piimad:
-- [x] piim
-- [x] keefir
+- [ ] piim
+- [ ] keefir
 - [ ] hapukoor
 - [ ] kodujuust
 - [x] barista
-- [ ] juust
+- [x] juust
 - [x] fetajuust
 - [x] või
 - [ ] avokaadomääre
 - [ ] jäätis
 
 lihad:
-- [ ] sink (broileririnnafilee)
+- [x] sink (broileririnnafilee)
 - [ ] kanafilee
 - [ ] kala
 - [x] liha
