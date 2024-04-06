@@ -11,7 +11,7 @@
 - kirjutada ka teisele kanade tädile
 
 
-| kp  | asukoht | m2  | hind | kv  | city |
-| --- | ------- | --- | ---- | --- | ---- |
-|     |         |     |      |     |      |
+| kp     | asukoht   | m2   | hind  | kv                                  | city |
+| ------ | --------- | ---- | ----- | ----------------------------------- | ---- |
+| 240404 | Jõesuu 20 | 7474 | 99000 | [[kv](https://www.kv.ee/3629786)]() | city |
 
