@@ -6,8 +6,8 @@ mida on / mida ei ole:
 
 värske:
 - [ ] jääsalat
-- [ ] tomat
-- [ ] kurk
+- [x] tomat
+- [x] kurk
 - [x] kartul
 - [x] porgand
 - [ ] brokkol
