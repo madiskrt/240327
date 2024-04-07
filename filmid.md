@@ -2,6 +2,7 @@
 sari
 - Meelte sagedus Amazonases [etv](https://jupiter.err.ee/1098214/meelte-sagedus-amazonases)
 
+- Tom Hanks. Nomaad [jup](https://jupiter.err.ee/1609264499/tom-hanks-nomaad)
 - Van Gogh. Geeniuse pintslitõmme [jup](https://jupiter.err.ee/1609141970/van-gogh-geeniuse-pintslitomme)
 - Varjus kasvanud kohv [jup](https://jupiter.err.ee/1608381272/varjus-kasvanud-kohv)
 - Sling Blade (1996, 2h 15m) 8.0 [imdb](https://www.imdb.com/title/tt0117666/)
