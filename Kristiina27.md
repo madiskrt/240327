@@ -3,8 +3,9 @@
 - [ ] lastetuppa narivoodi🔼 
 - [ ] praeahju propelleri remont ja puhastus ⏫ 
 - [ ] akende pesu
-- [ ] vannitoa koristus
-- [ ] vannitoa lae värvimine
+- [ ] vannitoa koristusteenus
+- [ ] vannitoa lae värvimine ⏳ 2024-06-01 
+- materjalid ja ajastus
 - [ ] köögitasapinna lihvimine ⏫ 
 - [ ] lastetoa radiaatori leke
 - [ ] põrandate õlitus 🔽 

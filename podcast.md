@@ -1,5 +1,6 @@
 
 - 240407 nng 10. On Delight, Emotion, and UX - Flipping the Script with UX Specialists Therese Fessenden & Rachel Krause
+	- minimum *lovable* product
 - 240407 db ## Bonus: Eric Snowden, Head of Adobe Design, on AI + Design
 - 240404 nng 31. Service Design 101 (feat. Thomas Wilson, UXMC, Senior Principal Service Designer & Strategist)
 	- service design
