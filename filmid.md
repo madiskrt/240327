@@ -1,4 +1,6 @@
 
+- Master and Commander The Far Side of the World (2003)
+- All The Invisible Children (2005)
 - [x] Taevatrepp [link](https://etv.err.ee/1609282241/taevatrepp)
 - The Zone of Interest (2023, 1h 45m) 7.5
 - One Fine Morning ([Un beau matin](https://www.imdb.com/title/tt13482828/), 2022, 1h 52m) 7.0  [jupiter](https://jupiter.err.ee/1609275194/uks-ilus-hommik)

@@ -10,7 +10,6 @@
 - kanad suveks Kallastelt
 - kirjutada ka teisele kanade tädile
 
-
 | kp     | asukoht   | m2    | hind  | kv                                                                                      | city                                                                                                                   | komm |
 | ------ | --------- | ----- | ----- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---- |
 | 240404 | Jõesuu 20 | 7474  | 99000 | [kv](https://www.kv.ee/3629786)                                                         | [city](https://www.city24.ee/real-estate/land-lots-for-sale/harju-maakond-kuusalu-vald-valkla-kula-joesuu-tee/4578793) |      |
