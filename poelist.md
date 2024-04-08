@@ -6,16 +6,16 @@ mida on / mida ei ole:
 
 värske:
 - [ ] jääsalat
-- [x] tomat
+- [ ] tomat
 - [x] kurk
 - [x] kartul
 - [x] porgand
 - [ ] brokkol
 - [ ] lillkapsas
-- [x] abokaado
+- [ ] abokaado
 - [x] õunad
 - [x] banaan
-- [x] kiwi
+- [x] kiiwi
 - [x] pirn
 - [x] sibulad
 - [x] küüslauk
@@ -23,7 +23,7 @@ värske:
 - [ ] rosmariin
 
 piimad:
-- [x] piim
+- [ ] piim
 - [ ] keefir
 - [ ] hapukoor
 - [ ] kodujuust
@@ -31,14 +31,14 @@ piimad:
 - [x] juust
 - [x] fetajuust
 - [x] või
-- [ ] avokaadomääre
+- [x] avokaadomääre
 - [x] jäätis
 
 lihad:
-- [x] sink (broileririnnafilee)
+- [ ] sink (broileririnnafilee)
 - [ ] kanafilee
 - [x] kala
-- [x] liha
+- [ ] liha
 
 mittesöödav:
 - [x] salvakad
@@ -49,7 +49,7 @@ mittesöödav:
 - [ ] wc puhastusvahend
 - [ ] hambapasta
 - [ ] bioprügi kotid
-- [ ] tavalise prügi kotid
+- [ ] tavalise prügikotid
 
 varia/varud:
 - [ ] võileivakurk
@@ -62,4 +62,4 @@ varia/varud:
 - [x] Barilla tomatikaste
 - [x] purustatud tomatid
 - [ ] kikerherned
-- [x] pannkoogijahu
+- [ ] pannkoogijahu
