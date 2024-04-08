@@ -1,4 +1,5 @@
 
+- [ ] kontrollida suitsuandurid 🔺 
 - [ ] magamistuppa kummut🔼 
 - [ ] lastetuppa narivoodi🔼 
 - [ ] praeahju propelleri remont ja puhastus ⏫ 
