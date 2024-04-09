@@ -1,4 +1,5 @@
 
+- 240409 il MJ Broadbent on Graphic Recording
 - 240409 dd 464: AI Grab Bag
 - 240408 il Nikki Anderson on Research Impact
 - 240407 nng 10. On Delight, Emotion, and UX - Flipping the Script with UX Specialists Therese Fessenden & Rachel Krause
