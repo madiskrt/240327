@@ -15,6 +15,7 @@ värske:
 - [ ] abokaado
 - [x] õunad
 - [x] banaan
+- [ ] apelsin/mandariin
 - [x] kiiwi
 - [x] pirn
 - [x] sibulad
