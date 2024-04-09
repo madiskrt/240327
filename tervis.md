@@ -1,5 +1,5 @@
 
-- [ ] uroloogi vastuvõtt regada ⏫ 
+- [ ] uroloogi vastuvõtt ⏳ 2024-06-11 ⏫ 
 - kontroll ECG enne suve!?
 - [ ] Iida vaktsiin teha aprill 🔼 📅 2024-04-15 
 
