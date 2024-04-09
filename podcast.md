@@ -1,4 +1,5 @@
 
+- 240409 nng 11. Solo UX: How to Be a One-Person UX Team (feat. Garrett Goldfield, UX Specialist at NN/g)
 - 240409 il MJ Broadbent on Graphic Recording
 - 240409 dd 464: AI Grab Bag
 - 240408 il Nikki Anderson on Research Impact
