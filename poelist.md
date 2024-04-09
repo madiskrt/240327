@@ -5,12 +5,12 @@ mida on / mida ei ole:
 - [x] kummikommid 😋
 
 värske:
-- [ ] jääsalat
-- [ ] tomat
+- [x] jääsalat
+- [x] tomat
 - [x] kurk
 - [x] kartul
 - [x] porgand
-- [ ] brokkol
+- [x] brokkol
 - [ ] lillkapsas
 - [ ] abokaado
 - [x] õunad
