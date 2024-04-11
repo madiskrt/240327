@@ -1,4 +1,5 @@
 
+- 240411 nng 24. Artificial Intelligence: What Is It? What Is It Not? (feat. Susan Farrell, Principal UX Researcher at mmhmm.app)
 - 240410 nng 13. Special Edition: What's the "UX hill" you would die on?
 - 240409 nng 11. Solo UX: How to Be a One-Person UX Team (feat. Garrett Goldfield, UX Specialist at NN/g)
 - 240409 il MJ Broadbent on Graphic Recording
