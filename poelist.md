@@ -1,45 +1,49 @@
 
 mida on / mida ei ole:
-- [x] leib
-- [x] mahl
-- [x] kummikommid 😋
+- [ ] leib
+- [ ] mahl
+- [ ] kummikommid 😋
 
 värske:
 - [x] jääsalat
-- [x] tomat
-- [x] kurk
-- [x] kartul
-- [x] porgand
-- [x] brokkol
+- [x] tomat🍅
+- [ ] kurk🥒
+- [x] kartul🥔
+- [x] porgand🥕
+- [ ] brokkol🥦
 - [ ] lillkapsas
-- [ ] abokaado
-- [x] õunad
-- [x] banaan
-- [ ] apelsin/mandariin
-- [x] kiiwi
-- [x] pirn
-- [x] sibulad
-- [x] küüslauk
+- [ ] abokaado🥑
+- [ ] õunad🍏
+- [x] banaan🍌
+- [ ] apelsin/mandariin🍊
+- [ ] kiiwi🥝
+- [ ] pirn🍐
+- [ ] viinamarjad🍇
+- [x] sibulad🧅
+- [x] küüslauk🧄
 - [ ] basiilik
 - [ ] rosmariin
 
 piimad:
-- [ ] piim
+- [x] piim🥛
 - [ ] keefir
 - [ ] hapukoor
 - [ ] kodujuust
-- [x] barista
-- [x] juust
+- [ ] barista
+- [ ] juust🧀
 - [x] fetajuust
 - [x] või
 - [x] avokaadomääre
-- [x] jäätis
+- [ ] jäätis🍦
+- [ ] pelmeenid
+- [ ] muna🐣🥚
 
 lihad:
 - [ ] sink (broileririnnafilee)
+- [ ] vorst
 - [ ] kanafilee
 - [x] kala
-- [ ] liha
+- [ ] liha🥩
 
 mittesöödav:
 - [x] salvakad
@@ -54,13 +58,17 @@ mittesöödav:
 
 varia/varud:
 - [ ] võileivakurk
-- [x] kohvi
+- [x] kohvi☕️
 - [x] päikesekuivatatud tomatid
 - [x] kapparid
 - [ ] tatar
-- [x] kaerahelbed
+- [ ] kaerahelbed
 - [x] kaerajahu
 - [x] Barilla tomatikaste
-- [x] purustatud tomatid
+- [ ] purustatud tomatid🥫
 - [ ] kikerherned
 - [ ] pannkoogijahu
+- [ ] kalevi küpsis
+- [ ] pipraterad
+- [ ] mineraalvesi
+- [ ] õlu🍺
