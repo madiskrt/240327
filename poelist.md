@@ -1,15 +1,11 @@
 
-mida on / mida ei ole:
-- [ ] leib
-- [ ] mahl
-- [ ] kummikommid 😋
-
 värske:
+- [ ] mahl
 - [x] jääsalat
 - [x] tomat🍅
 - [ ] kurk🥒
 - [x] kartul🥔
-- [x] porgand🥕
+- [ ] porgand🥕
 - [ ] brokkol🥦
 - [ ] lillkapsas
 - [ ] abokaado🥑
@@ -24,8 +20,10 @@ värske:
 - [ ] basiilik
 - [ ] rosmariin
 
+- [ ] leib
+
 piimad:
-- [x] piim🥛
+- [ ] piim🥛
 - [ ] keefir
 - [ ] hapukoor
 - [ ] kodujuust
@@ -33,7 +31,7 @@ piimad:
 - [ ] juust🧀
 - [x] fetajuust
 - [x] või
-- [x] avokaadomääre
+- [ ] avokaadomääre
 - [ ] jäätis🍦
 - [ ] pelmeenid
 - [ ] muna🐣🥚
@@ -46,7 +44,7 @@ lihad:
 - [ ] liha🥩
 
 mittesöödav:
-- [x] salvakad
+- [ ] salvakad
 - [ ] wc paber
 - [ ] pesugeel sinine
 - [ ] pesuvalgendi
@@ -72,3 +70,6 @@ varia/varud:
 - [ ] pipraterad
 - [ ] mineraalvesi
 - [ ] õlu🍺
+- [ ] müsli
+- [ ] puljongipasta
+- [ ] kakaokrôbuskid
