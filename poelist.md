@@ -44,13 +44,13 @@ lihad:
 - [ ] liha🥩
 
 mittesöödav:
-- [ ] salvakad
-- [ ] wc paber
+- [x] salvakad
+- [x] wc paber
 - [ ] pesugeel sinine
 - [ ] pesuvalgendi
 - [ ] pesuäädikas
 - [ ] wc puhastusvahend
-- [ ] hambapasta
+- [x] hambapasta
 - [ ] bioprügi kotid
 - [ ] tavalise prügikotid
 
