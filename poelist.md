@@ -1,18 +1,18 @@
 
 värske:
-- [ ] mahl
+- [x] mahl
 - [x] jääsalat
 - [x] tomat🍅
-- [ ] kurk🥒
+- [x] kurk🥒
 - [x] kartul🥔
-- [ ] porgand🥕
+- [x] porgand🥕
 - [ ] brokkol🥦
 - [ ] lillkapsas
-- [ ] abokaado🥑
-- [ ] õunad🍏
+- [x] abokaado🥑
+- [x] õunad🍏
 - [x] banaan🍌
-- [ ] apelsin/mandariin🍊
-- [ ] kiiwi🥝
+- [x] apelsin/mandariin🍊
+- [x] kiiwi🥝
 - [ ] pirn🍐
 - [ ] viinamarjad🍇
 - [x] sibulad🧅
@@ -20,7 +20,7 @@ värske:
 - [ ] basiilik
 - [ ] rosmariin
 
-- [ ] leib
+- [x] leib
 
 piimad:
 - [ ] piim🥛
