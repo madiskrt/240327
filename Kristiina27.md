@@ -10,3 +10,4 @@
 - [ ] köögitasapinna lihvimine ⏫ 
 - [ ] lastetoa radiaatori leke
 - [ ] põrandate õlitus 🔽 
+	- Uurida Linconast materjale
