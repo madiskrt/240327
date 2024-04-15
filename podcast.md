@@ -1,4 +1,6 @@
 
+- 240415 uib Episode 250: The Laws of Creativity with Joey Cofone
+	- book: The Laws of Creativity
 - 240414 nng 38. User Interviews (feat. Steve Portigal, Research Consultant and Author)
 - 240412 uib Episode 266: Driving Change with Maria Giudice
 - 240411 nng 24. Artificial Intelligence: What Is It? What Is It Not? (feat. Susan Farrell, Principal UX Researcher at mmhmm.app)
