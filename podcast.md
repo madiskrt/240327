@@ -1,4 +1,5 @@
 
+- 240416 db Barry Katz: The history and philosophy of design in Silicon Valley and beyond
 - 240415 uib Episode 250: The Laws of Creativity with Joey Cofone
 	- book: The Laws of Creativity
 - 240414 nng 38. User Interviews (feat. Steve Portigal, Research Consultant and Author)
