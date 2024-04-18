@@ -1,4 +1,5 @@
 
+- 240418 nng 35. Wireframing & Prototyping (feat. Leon Barnard, Content Manager, Balsamiq)
 - 240416 db Barry Katz: The history and philosophy of design in Silicon Valley and beyond
 - 240415 uib Episode 250: The Laws of Creativity with Joey Cofone
 	- book: The Laws of Creativity
