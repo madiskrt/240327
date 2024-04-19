@@ -1,6 +1,6 @@
 
 - 240418 uib Episode 275: Design for Learning with Jenae Cohn
-	- book: Design for Learning
+	- book: Design for Learning [amz](https://www.amazon.com/Design-Learning-Experience-Online-Teaching/dp/1959029169) 4.7
 - 240418 db Paula Scher: Pentagram legend on design, persuasion and embracing mistakes
 - 240418 nng 35. Wireframing & Prototyping (feat. Leon Barnard, Content Manager, Balsamiq)
 - 240416 db Barry Katz: The history and philosophy of design in Silicon Valley and beyond
