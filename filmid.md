@@ -2,6 +2,8 @@
 sari
 - Meelte sagedus Amazonases [etv](https://jupiter.err.ee/1098214/meelte-sagedus-amazonases)
 
+film:
+- The Blue Caftan 7.6 [imdb](https://www.imdb.com/title/tt17679584/?ref_=tt_sims_tt_t_2)
 - Tehisaru lahkamine [jup](https://jupiter.err.ee/1609294583/tehisaru-lahkamine)
 - Tom Hanks. Nomaad [jup](https://jupiter.err.ee/1609264499/tom-hanks-nomaad)
 - Van Gogh. Geeniuse pintslitõmme [jup](https://jupiter.err.ee/1609141970/van-gogh-geeniuse-pintslitomme)
