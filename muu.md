@@ -1,5 +1,4 @@
 
-- [ ] Hansu eelkooli regamine 📅 2024-05-20 🔺 
 - [ ] Piretile ema pilt teha
 
 auto

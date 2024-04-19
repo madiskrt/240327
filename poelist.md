@@ -2,9 +2,9 @@
 värske:
 - [x] mahl
 - [x] jääsalat
-- [ ] tomat🍅
-- [ ] kurk🥒
-- [ ] kartul🥔
+- [x] tomat🍅
+- [x] kurk🥒
+- [x] kartul🥔
 - [x] porgand🥕
 - [ ] brokkol🥦
 - [ ] lillkapsas
@@ -13,8 +13,8 @@ värske:
 - [x] banaan🍌
 - [x] apelsin/mandariin🍊
 - [x] kiiwi🥝
-- [x] pirn🍐
-- [x] viinamarjad🍇
+- [ ] pirn🍐
+- [ ] viinamarjad🍇
 - [x] sibulad🧅
 - [x] küüslauk🧄
 - [ ] basiilik
@@ -34,11 +34,11 @@ piimad:
 - [ ] avokaadomääre
 - [ ] jäätis🍦
 - [ ] pelmeenid
-- [x] muna🐣🥚
+- [ ] muna🐣🥚
 
 lihad:
 - [ ] sink (broileririnnafilee)
-- [x] vorst
+- [ ] vorst
 - [ ] kanafilee
 - [x] kala
 - [ ] liha🥩
@@ -50,7 +50,7 @@ mittesöödav:
 - [ ] pesuvalgendi
 - [ ] pesuäädikas
 - [ ] wc puhastusvahend
-- [ ] hambapasta
+- [x] hambapasta
 - [ ] bioprügi kotid
 - [ ] tavalise prügikotid
 
@@ -59,17 +59,17 @@ varia/varud:
 - [x] kohvi☕️
 - [x] päikesekuivatatud tomatid
 - [x] kapparid
-- [x] tatar
-- [x] kaerahelbed
+- [ ] tatar
+- [ ] kaerahelbed
 - [x] kaerajahu
 - [x] Barilla tomatikaste
-- [x] purustatud tomatid🥫
+- [ ] purustatud tomatid🥫
 - [ ] kikerherned
 - [ ] pannkoogijahu
 - [ ] kalevi küpsis
-- [x] pipraterad
+- [ ] pipraterad
 - [ ] mineraalvesi
-- [x] õlu🍺
-- [x] müsli
-- [x] puljongipasta
-- [x] kakaokrôbuskid
+- [ ] õlu🍺
+- [ ] müsli
+- [ ] puljongipasta
+- [ ] kakaokrôbuskid

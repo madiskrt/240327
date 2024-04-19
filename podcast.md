@@ -1,11 +1,10 @@
 
-- 240418 uib Design for Learning
-	- book: Design for Learning: User Experience in Online Teaching and Learning [amz](https://www.amazon.com/Design-Learning-Experience-Online-Teaching/dp/1959029169)
+- 240418 uib Episode 275: Design for Learning with Jenae Cohn
 - 240418 db Paula Scher: Pentagram legend on design, persuasion and embracing mistakes
 - 240418 nng 35. Wireframing & Prototyping (feat. Leon Barnard, Content Manager, Balsamiq)
 - 240416 db Barry Katz: The history and philosophy of design in Silicon Valley and beyond
 - 240415 uib Episode 250: The Laws of Creativity with Joey Cofone
-	- book: The Laws of Creativity [amz](https://www.amazon.com/Laws-Creativity-Unlock-Originality-Creative/dp/1943623384) 4.7 
+	- book: The Laws of Creativity
 - 240414 nng 38. User Interviews (feat. Steve Portigal, Research Consultant and Author)
 - 240412 uib Episode 266: Driving Change with Maria Giudice
 - 240411 nng 24. Artificial Intelligence: What Is It? What Is It Not? (feat. Susan Farrell, Principal UX Researcher at mmhmm.app)
