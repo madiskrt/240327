@@ -1,4 +1,5 @@
 
+- 240423 nng 23. Building Better Products with a Better Mindset (feat. Ryan Hudson-Peralta, Principal Experience Designer at Rocket Homes)
 - 240422 nng 29. UX Mentorship (feat. Tim Neusesser, UX Specialist at NN/g, and Travis Grawey, Director of Product Design at OfficeSpace)
 - 240422 il Dave Gray on Possibilities
 - 240421 db Bonus Episode: Matt D Smith from Shift Nudge on the elements of a great user interface
