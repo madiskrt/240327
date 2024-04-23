@@ -1,6 +1,8 @@
 
+- 240423 nng 7. Lessen Digital Misery with Complex Apps (feat. Page Laubheimer, Sr. UX Specialist at NN/g)
 - 240423 il Nathan Shedroff on Strategy
 	- #systems-thinking 
+	- book: Duly noted
 - 240423 db Kate Aronowitz: Shaping the story of design in business
 - 240423 uib BDTP. Data-powered Growth with Arpit Choudhury
 - 240423 nng 23. Building Better Products with a Better Mindset (feat. Ryan Hudson-Peralta, Principal Experience Designer at Rocket Homes)
