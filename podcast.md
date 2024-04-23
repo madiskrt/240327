@@ -1,4 +1,5 @@
 
+- 240423 db Kate Aronowitz: Shaping the story of design in business
 - 240423 uib BDTP. Data-powered Growth with Arpit Choudhury
 - 240423 nng 23. Building Better Products with a Better Mindset (feat. Ryan Hudson-Peralta, Principal Experience Designer at Rocket Homes)
 - 240422 nng 29. UX Mentorship (feat. Tim Neusesser, UX Specialist at NN/g, and Travis Grawey, Director of Product Design at OfficeSpace)
