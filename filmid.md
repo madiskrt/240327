@@ -1,6 +1,6 @@
 
 sari
-- Meelte sagedus Amazonases [etv](https://jupiter.err.ee/1098214/meelte-sagedus-amazonases
+- Meelte sagedus Amazonases [etv](https://jupiter.err.ee/1098214/meelte-sagedus-amazonases)
 
 film:
 - Väike tüdruk [jup](https://jupiter.err.ee/1608550393/vaike-tudruk) 
