@@ -1,4 +1,5 @@
 
+- 240423 il Nathan Shedroff on Strategy
 - 240423 db Kate Aronowitz: Shaping the story of design in business
 - 240423 uib BDTP. Data-powered Growth with Arpit Choudhury
 - 240423 nng 23. Building Better Products with a Better Mindset (feat. Ryan Hudson-Peralta, Principal Experience Designer at Rocket Homes)
