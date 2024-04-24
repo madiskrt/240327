@@ -1,5 +1,6 @@
 
 - 240424 db Ed Catmull: Creative lessons from Lucasfilm to Pixar and beyond
+	- book: Creative Inc.
 - 240423 nng 7. Lessen Digital Misery with Complex Apps (feat. Page Laubheimer, Sr. UX Specialist at NN/g)
 - 240423 il Nathan Shedroff on Strategy
 	- #systems-thinking 
