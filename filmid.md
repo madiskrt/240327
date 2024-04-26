@@ -3,6 +3,7 @@ sari
 - Meelte sagedus Amazonases [etv](https://jupiter.err.ee/1098214/meelte-sagedus-amazonases)
 
 film:
+- [ ] Werner Herzog - radikaalne unistaja [jup](https://jupiter.err.ee/1609268147/werner-herzog-radikaalne-unistaja)
 - [ ] Hatred (2016)
 - [x] Prisoners (2013, 2h 33m) 8.2 [imdb](https://www.imdb.com/title/tt1392214/)
 - Väike tüdruk [jup](https://jupiter.err.ee/1608550393/vaike-tudruk) 
