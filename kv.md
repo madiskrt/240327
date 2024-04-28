@@ -1,5 +1,5 @@
 
-korterid ja maad 2024 [link](https://docs.google.com/spreadsheets/d/1YKYLioKHzZugmj0dy8p8N8XqsfoH7Uczf_7q_mP19X8/edit?usp=sharing)
+korterid ja maad 2024 ülevaade [link](https://docs.google.com/spreadsheets/d/1YKYLioKHzZugmj0dy8p8N8XqsfoH7Uczf_7q_mP19X8/edit?usp=sharing)
 
 - Linnupesa ridakas 🔺 
 	- Teha ülevaade võrdlusobjektidest
