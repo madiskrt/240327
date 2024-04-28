@@ -36,6 +36,7 @@ muu:
 - Teatrietendus. Valge tee kutse [jup](https://jupiter.err.ee/1608097507/teatrietendus-valge-tee-kutse)
 
 lastele:
-- [x] Pettson ja Findus. Findus kolib ära [etv](https://lasteekraan.err.ee/1608333605/pettson-ja-findus-findus-kolib-ara)
 - Hunt Kriimsilma 9 ametit: https://lasteekraan.err.ee/1063540/hunt-kriimsilm
+- Pettson ja Findus. Findus kolib ära: [https://lasteekraan.err.ee/1608333605/pettson-ja-findus-findus-kolib-ara](https://lasteekraan.err.ee/1608333605/pettson-ja-findus-findus-kolib-ara)
+- Väikevend ja Karlsson katuselt: [https://lasteekraan.err.ee/1608916907/vaikevend-ja-karlsson-katuselt](https://lasteekraan.err.ee/1608916907/vaikevend-ja-karlsson-katuselt)
 
