@@ -32,3 +32,6 @@ film:
 muu:
 - Teatrietendus. Valge tee kutse [jup](https://jupiter.err.ee/1608097507/teatrietendus-valge-tee-kutse)
 
+lastele:
+- Hunt Kriimsilma 9 ametit: https://lasteekraan.err.ee/1063540/hunt-kriimsilm
+
