@@ -1,4 +1,5 @@
 
+- 240430 db Jonathan Adler: Famed potter and designer on bringing creativity into all aspects of life
 - 240424 db Ed Catmull: Creative lessons from Lucasfilm to Pixar and beyond
 	- book: Creativity Inc. [amz](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012) 4.7 dl >
 - 240423 nng 7. Lessen Digital Misery with Complex Apps (feat. Page Laubheimer, Sr. UX Specialist at NN/g)
