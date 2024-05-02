@@ -13,11 +13,12 @@
 ühistu kommunaalid kaust [link](https://drive.google.com/drive/folders/1Zkv9v9fI9V0a7ZcAaSlHNOiu0NJRhIud?usp=drive_link)
 2024:
 
-| 2024  | külm | soe | kommud | lisad  |
-| ----- | ---- | --- | ------ | ------ |
-| jaan  | 315  | 434 | 268,78 |        |
-| veebr | 318  | 440 | 223,15 | soodus |
-| märts | 321  | 444 |        |        |
+| 2024   | külm | soe | kommud | lisad  |
+| ------ | ---- | --- | ------ | ------ |
+| jaan   | 315  | 434 | 268,78 |        |
+| veebr  | 318  | 440 | 223,15 | soodus |
+| märts  | 321  | 444 |        |        |
+| aprill | 324  | 448 |        |        |
 
 | 2023 | külm | soe | kommud | lisad |
 | ---- | ---- | --- | ------ | ----- |
