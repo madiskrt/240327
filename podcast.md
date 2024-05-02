@@ -1,4 +1,6 @@
 
+- 240502 db Tony Fadell: How to build the future
+	- book: Build
 - 240430 db Georg Petschnigg: Product design and storytelling at The New York Times
 - 240430 db Jonathan Adler: Famed potter and designer on bringing creativity into all aspects of life
 - 240424 db Ed Catmull: Creative lessons from Lucasfilm to Pixar and beyond
