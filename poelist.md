@@ -4,7 +4,7 @@ värske:
 - [x] jääsalat
 - [x] tomat🍅
 - [x] kurk🥒
-- [ ] kartul🥔
+- [x] kartul🥔
 - [x] porgand🥕
 - [x] brokkol🥦
 - [ ] lillkapsas
