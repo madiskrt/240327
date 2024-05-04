@@ -3,6 +3,7 @@ sari
 - [x] Meelte sagedus Amazonases [etv](https://jupiter.err.ee/1098214/meelte-sagedus-amazonases)
 
 film:
+- True Grit (2010)
 - Mystic River (2003)
 - [x] Aguirre, the Wrath of God (1972)
 - [ ] Perfect Days (2023)
