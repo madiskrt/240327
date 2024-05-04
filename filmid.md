@@ -3,7 +3,8 @@ sari
 - [x] Meelte sagedus Amazonases [etv](https://jupiter.err.ee/1098214/meelte-sagedus-amazonases)
 
 film:
-- [ ] Aguirre, the Wrath of God (1972)
+- Mystic River (2003)
+- [x] Aguirre, the Wrath of God (1972)
 - [ ] Perfect Days (2023)
 - [ ] Encounters at the End of the World (2007)
 - [x] Martin Scorsese, Ameerika itaallane [jup](https://jupiter.err.ee/1609261427/martin-scorsese-ameerika-itaallane)
