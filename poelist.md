@@ -1,6 +1,6 @@
 
 värske:
-- [ ] mahl
+- [x] mahl
 - [x] jääsalat
 - [x] tomat🍅
 - [x] kurk🥒
