@@ -1,4 +1,5 @@
 
+- 240506 il Chris Aldrich on Cybernetic Communications
 - 240502 nng 22. UX, Big Data, and Artificial Intelligence (feat. Kenya Oduor, Ph.D., founder of Lean Geeks)
 - 240502 db Tony Fadell: How to build the future
 	- book: Build
