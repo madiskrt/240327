@@ -3,7 +3,8 @@ sari
 - [x] Meelte sagedus Amazonases [etv](https://jupiter.err.ee/1098214/meelte-sagedus-amazonases)
 
 film:
-- [x] Gone Baby Gone (2007)ff
+- Gone Girl (2014) 
+- [x] Gone Baby Gone (2007)
 - [x] The Invisible Guest (2016)
 - [x] True Grit (2010)
 - Mystic River (2003)
@@ -33,7 +34,7 @@ film:
 - The Kid with a Bike (2011, 1h 27m) 7.4
 - Kolya (1996 ‧ Comedy/Thriller ‧ 1h 51m) 7.7
 - My Life as a Dog (1985 ‧ Family/Comedy ‧ 1h 41m)
-- Babette's Feast (1987 ‧ Comedy/Romance ‧ 1h 42m)
+- [x] Babette's Feast (1987 ‧ Comedy/Romance ‧ 1h 42m)
 - Waking Ned (1998 ‧ Comedy/Indie film ‧ 1h 31m) 7.3
 
 muu:
