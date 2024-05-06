@@ -5,15 +5,15 @@ värske:
 - [x] tomat🍅
 - [x] kurk🥒
 - [x] kartul🥔
-- [x] porgand🥕
-- [x] brokkol🥦
+- [ ] porgand🥕
+- [ ] brokkol🥦
 - [ ] lillkapsas
-- [ ] abokaado🥑
+- [x] abokaado🥑
 - [x] õunad🍏
 - [ ] banaan🍌
 - [x] apelsin/mandariin🍊
 - [x] kiiwi🥝
-- [x] pirn🍐
+- [ ] pirn🍐
 - [ ] viinamarjad🍇
 - [x] sibulad🧅
 - [x] küüslauk🧄
@@ -23,29 +23,29 @@ värske:
 - [x] leib
 
 piimad:
-- [x] piim🥛
-- [x] keefir
-- [x] hapukoor
+- [ ] piim🥛
+- [ ] keefir
+- [ ] hapukoor
 - [ ] kodujuust
 - [x] barista
 - [x] juust🧀
 - [x] fetajuust
 - [x] või
-- [ ] avokaadomääre
-- [ ] jäätis🍦
+- [x] avokaadomääre
+- [x] jäätis🍦
 - [x] pelmeenid
-- [ ] muna🐣🥚
+- [x] muna🐣🥚
 
 lihad:
 - [x] sink (broileririnnafilee)
 - [x] vorst
-- [ ] kanafilee
-- [x] kala
+- [x] kanafilee
+- [ ] kala
 - [ ] liha🥩
 
 mittesöödav:
 - [x] salvakad
-- [x] wc paber
+- [ ] wc paber
 - [ ] pesugeel sinine
 - [ ] pesuvalgendi
 - [ ] pesuäädikas
@@ -55,12 +55,12 @@ mittesöödav:
 - [ ] tavalise prügikotid
 
 varia/varud:
-- [ ] võileivakurk
+- [x] võileivakurk
 - [x] kohvi☕️
 - [x] päikesekuivatatud tomatid
 - [x] kapparid
 - [x] tatar
-- [ ] kaerahelbed
+- [x] kaerahelbed
 - [x] kaerajahu
 - [x] Barilla tomatikaste
 - [ ] purustatud tomatid🥫
