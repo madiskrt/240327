@@ -8,6 +8,7 @@
 	- aadress: Rionkatu 14 A 19, 00220 Helsinki 
 - [ ] Hansule hoiupõrsas
 - [ ] Piretile ema pilt teha
+- [ ] Mare kingitus osta
 
 auto
 - [ ] pesu ja puhastus ⏳ 2024-04-10 🔼 

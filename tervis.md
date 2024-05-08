@@ -1,7 +1,8 @@
 
 - [ ] uroloogi vastuvõtt ⏳ 2024-06-11 ⏫ 
 - kontroll ECG enne suve!?
-- [ ] Iida vaktsiin teha aprill 🔼 📅 2024-04-15 
+- [x] Iida vaktsiin teha aprill 🔼 📅 2024-04-15
+	- Teine vaktsiin mitte enne 7.06 
 
 trenniskäigud tabel [link](https://docs.google.com/spreadsheets/d/1HZf4cDL4716lkkL-UVDJTMvBe2NElg1nX3z8Emo_ZVQ/edit?usp=sharing)
 - karskusplaan al 20.11.2023 - ...
