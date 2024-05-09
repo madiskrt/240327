@@ -19,9 +19,9 @@
 | veebr  | 318  | 440 | 223,15 | soodus            |
 | märts  | 321  | 444 | 196,67 |                   |
 | aprill | 324  | 448 |        | koridori koristus |
-| mai    |      |     |        | muru 6-19.05      |
+| mai    |      |     |        |                   |
 | juuni  |      |     |        |                   |
-| juuli  |      |     |        |                   |
+| juuli  |      |     |        | 15-28.07          |
 | august |      |     |        | 12-25.08          |
 | sept   |      |     |        |                   |
 | okt    |      |     |        |                   |
