@@ -1,4 +1,5 @@
 
+- 240509 db Tasha Golden: Avoiding burnout while pursuing creativity with passion
 - 240507 db John Cleese: A cheerful guide to creativity
 - 240506 il Chris Aldrich on Cybernetic Communications
 - 240502 nng 22. UX, Big Data, and Artificial Intelligence (feat. Kenya Oduor, Ph.D., founder of Lean Geeks)
