@@ -3,7 +3,7 @@ sari
 - [x] Meelte sagedus Amazonases [etv](https://jupiter.err.ee/1098214/meelte-sagedus-amazonases)
 
 film:
-- Gone Girl (2014) 8.1
+- [x] Gone Girl (2014) 8.1
 - [x] Gone Baby Gone (2007)
 - [x] The Invisible Guest (2016)
 - [ ] True Grit (2010)
