@@ -1,5 +1,5 @@
 
-- [ ] Linnupesa ridakas 🔺 
+- [x] Linnupesa ridakas 🔺
 	- Teha ülevaade võrdlusobjektidest
 	- Käia vaatamas mõnda maja, nt Allika?
 	- Räägu 16 info kaust [link](https://drive.google.com/open?id=1_S0lz6jENH-EdVDl798TNXzuK90-rN_m&usp=drive_fs)
