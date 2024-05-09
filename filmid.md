@@ -6,8 +6,8 @@ film:
 - Gone Girl (2014) 8.1
 - [x] Gone Baby Gone (2007)
 - [x] The Invisible Guest (2016)
-- [x] True Grit (2010)
-- Mystic River (2003)
+- [ ] True Grit (2010)
+- [x] Mystic River (2003)
 - [x] Aguirre, the Wrath of God (1972)
 - [ ] Perfect Days (2023)
 - [ ] Encounters at the End of the World (2007)
