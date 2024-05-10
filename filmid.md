@@ -3,6 +3,7 @@ sari
 - [x] Meelte sagedus Amazonases [etv](https://jupiter.err.ee/1098214/meelte-sagedus-amazonases)
 
 film:
+- Ordinary People (1980, 2h 4m) 7.7 > 
 - Everybody's Fine (1990, 1h 58m) 7.7 >
 - Songs from the Second Floor (2000, 1h 38m) 7.5 >
 -  The Return (2003, 1h 50m) 7.9 >
