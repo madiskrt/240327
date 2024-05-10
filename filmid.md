@@ -3,6 +3,7 @@ sari
 - [x] Meelte sagedus Amazonases [etv](https://jupiter.err.ee/1098214/meelte-sagedus-amazonases)
 
 film:
+- Secrets and Lies (1996, 2h 16m) 8.0 [imdb](https://www.imdb.com/title/tt0117589/) > 
 - [x] Gone Girl (2014) 8.1
 - [x] Gone Baby Gone (2007)
 - [x] The Invisible Guest (2016)
