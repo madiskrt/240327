@@ -3,6 +3,7 @@ sari
 - [x] Meelte sagedus Amazonases [etv](https://jupiter.err.ee/1098214/meelte-sagedus-amazonases)
 
 film:
+- Everybody's Fine (1990, 1h 58m) 7.7 >
 - Songs from the Second Floor (2000, 1h 38m) 7.5 >
 -  The Return (2003, 1h 50m) 7.9 >
 - Gloomy Sunday (1999, 1h 52m) 7.8 >
