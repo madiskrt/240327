@@ -22,7 +22,7 @@ film:
 - Van Gogh. Geeniuse pintslitõmme [jup](https://jupiter.err.ee/1609141970/van-gogh-geeniuse-pintslitomme)
 - Varjus kasvanud kohv [jup](https://jupiter.err.ee/1608381272/varjus-kasvanud-kohv)
 - Sling Blade (1996, 2h 15m) 8.0 [imdb](https://www.imdb.com/title/tt0117666/)
-- Master and Commander The Far Side of the World (2003)
+- Master and Commander The Far Side of the World (2003, 2h 18m) 7.5 >
 - All The Invisible Children (2005)
 - [x] Taevatrepp [link](https://etv.err.ee/1609282241/taevatrepp)
 - The Zone of Interest (2023, 1h 45m) 7.5
