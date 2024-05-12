@@ -1,4 +1,5 @@
 
+- 240512 db John Maeda: AI + Design
 - 240509 uib Episode 260: Managing the Design Process with Paul Boag
 - 240509 db Tasha Golden: Avoiding burnout while pursuing creativity with passion
 - 240507 db John Cleese: A cheerful guide to creativity
