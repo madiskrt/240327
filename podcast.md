@@ -1,4 +1,7 @@
 
+- 240513 db Sheena Iyengar: Choose to think bigger
+	- book: the art of choosing?
+	- book: think bigger?
 - 240512 db John Maeda: AI + Design
 	- book: How to speak machines?
 - 240509 uib Episode 260: Managing the Design Process with Paul Boag
