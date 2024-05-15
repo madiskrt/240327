@@ -18,7 +18,7 @@
 | jaan   | 315  | 434 | 268,78 |                   |
 | veebr  | 318  | 440 | 223,15 | soodus            |
 | märts  | 321  | 444 | 196,67 |                   |
-| aprill | 324  | 448 |        | koridori koristus |
+| aprill | 324  | 448 | 165,02 | koridori koristus |
 | mai    |      |     |        |                   |
 | juuni  |      |     |        |                   |
 | juuli  |      |     |        | 15-28.07          |
