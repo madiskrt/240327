@@ -3,8 +3,7 @@ sari
 - [x] Meelte sagedus Amazonases [etv](https://jupiter.err.ee/1098214/meelte-sagedus-amazonases)
 
 film:
-- Võõras palve
-
+- Võõras palve (2017) [jup](https://jupiter.err.ee/1608957383/vooras-palve)
 - Pähklivõi pistrik (2019) [jup](https://jupiter.err.ee/1608741040/pahklivoi-pistrik)
 - The Orphanage (2007, 1h 45m) 7.4 [lnk](https://www.imdb.com/title/tt0464141/)
 - The Innocents (2021, 1h 57m) 7.0 [imdb](https://www.imdb.com/title/tt4028464/)
