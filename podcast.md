@@ -1,4 +1,5 @@
 
+- 240515 db Pablo Stanley: A creative force of nature on the importance of persistence and hustle
 - 240515 nng 39. Cross-Cultural UX Research (feat. Feifei Liu, International UX Researcher)
 - 240513 db Sheena Iyengar: Choose to think bigger
 	- book: the art of choosing?
