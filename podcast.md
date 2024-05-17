@@ -1,4 +1,5 @@
 
+- 240417 db Judy and Daniel Wert: Challenging times in tech
 - 240516 db Tina Seelig: Constraints drive creativity
 - 240515 db Pablo Stanley: A creative force of nature on the importance of persistence and hustle
 - 240515 nng 39. Cross-Cultural UX Research (feat. Feifei Liu, International UX Researcher)
