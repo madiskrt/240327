@@ -3,8 +3,8 @@ sari
 - [x] Meelte sagedus Amazonases [etv](https://jupiter.err.ee/1098214/meelte-sagedus-amazonases)
 
 film:
-- Võõras palve (2017) [jup](https://jupiter.err.ee/1608957383/vooras-palve)
-- Pähklivõi pistrik (2019) [jup](https://jupiter.err.ee/1608741040/pahklivoi-pistrik)
+- [x] Võõras palve (2017) [jup](https://jupiter.err.ee/1608957383/vooras-palve)
+- [x] Pähklivõi pistrik (2019) [jup](https://jupiter.err.ee/1608741040/pahklivoi-pistrik)
 - The Orphanage (2007, 1h 45m) 7.4 [lnk](https://www.imdb.com/title/tt0464141/)
 - The Innocents (2021, 1h 57m) 7.0 [imdb](https://www.imdb.com/title/tt4028464/)
 - Department Q: The Keeper of Lost Causes (2013, 1h 36m) 7.2 [imdb](https://www.imdb.com/title/tt2438644/)
@@ -18,7 +18,7 @@ film:
 - Ordinary People (1980, 2h 4m) 7.7 > 
 - Everybody's Fine (1990, 1h 58m) 7.7 >
 - Songs from the Second Floor (2000, 1h 38m) 7.5 >
--  The Return (2003, 1h 50m) 7.9 >
+- The Return (2003, 1h 50m) 7.9 >
 - Gloomy Sunday (1999, 1h 52m) 7.8 >
 - Sling Blade (1996, 2h 15m) 8.0 >
 - Secrets and Lies (1996, 2h 16m) 8.0 [imdb](https://www.imdb.com/title/tt0117589/) > 
@@ -45,7 +45,7 @@ film:
 - All The Invisible Children (2005)
 - [x] Taevatrepp [link](https://etv.err.ee/1609282241/taevatrepp)
 - The Zone of Interest (2023, 1h 45m) 7.5
-- One Fine Morning ([Un beau matin](https://www.imdb.com/title/tt13482828/), 2022, 1h 52m) 7.0  [jupiter](https://jupiter.err.ee/1609275194/uks-ilus-hommik)
+- One Fine Morning (2022, 1h 52m) 7.0  [jupiter](https://jupiter.err.ee/1609275194/uks-ilus-hommik)
 - [x] Babette's Feast (1987) 7.8 [jupiter](https://jupiter.err.ee/1608895877/babette-i-pidusook)
 - A Summer's Tale (1996, 1h 53m) 7.6
 - A Man Called Ove (2015, 1h 56m) 7.7
@@ -61,6 +61,6 @@ muu:
 
 lastele:
 - Hunt Kriimsilma 9 ametit: https://lasteekraan.err.ee/1063540/hunt-kriimsilm
-- Pettson ja Findus. Findus kolib ära: [https://lasteekraan.err.ee/1608333605/pettson-ja-findus-findus-kolib-ara](https://lasteekraan.err.ee/1608333605/pettson-ja-findus-findus-kolib-ara)
+- [x] Pettson ja Findus. Findus kolib ära: [https://lasteekraan.err.ee/1608333605/pettson-ja-findus-findus-kolib-ara](https://lasteekraan.err.ee/1608333605/pettson-ja-findus-findus-kolib-ara)
 - Väikevend ja Karlsson katuselt: [https://lasteekraan.err.ee/1608916907/vaikevend-ja-karlsson-katuselt](https://lasteekraan.err.ee/1608916907/vaikevend-ja-karlsson-katuselt)
 
