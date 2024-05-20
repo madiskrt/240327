@@ -1,4 +1,5 @@
 
+- 240520 db Kevin Bethune: Reimagining design
 - 240520 uib BDTP. SEO Optimization for Existing Content with Kai Davis
 - 240520 il Emily Campbell on The Shape of AI
 - 240417 db Judy and Daniel Wert: Challenging times in tech
