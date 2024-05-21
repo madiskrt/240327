@@ -3,6 +3,7 @@ sari
 - [x] Meelte sagedus Amazonases [etv](https://jupiter.err.ee/1098214/meelte-sagedus-amazonases)
 
 film:
+- Hirmu lõhn [jup](https://jupiter.err.ee/1608856193/hirmu-lohn)
 - Hiilgus | Shine (1996, 1h 45m) 7.6 [jup](https://jupiter.err.ee/1609331447/hiilgus)
 - [x] Võõras palve (2017) [jup](https://jupiter.err.ee/1608957383/vooras-palve)
 - [x] Pähklivõi pistrik (2019) [jup](https://jupiter.err.ee/1608741040/pahklivoi-pistrik)
