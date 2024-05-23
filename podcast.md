@@ -1,5 +1,6 @@
 
 - 240523 db David Sedaris: How one of the world's top humorists uses observation and prototyping to hone his craft
+	- book: Death by findings
 - 240520 db Kevin Bethune: Reimagining design
 	- AI tool: mid-journey?
 - 240520 uib BDTP. SEO Optimization for Existing Content with Kai Davis
