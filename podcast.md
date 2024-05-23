@@ -1,4 +1,5 @@
 
+- 240523 dm Adam Moss
 - 240523 db David Sedaris: How one of the world's top humorists uses observation and prototyping to hone his craft
 	- book: Death by findings
 - 240520 db Kevin Bethune: Reimagining design
