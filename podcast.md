@@ -1,7 +1,7 @@
 
 - 240528 dm David Remnick
 - 240528 dm Emily Nagoski, Ph.D.
-	- book: Come as you are dl
+	- book: Come as you are [dl](https://drive.google.com/open?id=12vOwsrrqedKE4R6IjZx-ZVde1MJFNu-T&usp=drive_fs)
 - 240523 dm Adam Moss
 	- book: The Work of Art: How Something Comes from Nothing [dl](https://drive.google.com/open?id=138tL86Ekoxus20vTPY7AleEnpcZWKgja&usp=drive_fs)
 - 240523 db David Sedaris: How one of the world's top humorists uses observation and prototyping to hone his craft
