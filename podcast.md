@@ -1,4 +1,5 @@
 
+- 240528 dm David Remnick
 - 240528 dm Emily Nagoski, Ph.D.
 	- book: Come as you are
 - 240523 dm Adam Moss
