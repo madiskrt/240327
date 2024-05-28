@@ -1,4 +1,5 @@
 
+- 240528 dm Emily Nagoski, Ph.D.
 - 240523 dm Adam Moss
 	- book: The Work of Art: How Something Comes from Nothing
 - 240523 db David Sedaris: How one of the world's top humorists uses observation and prototyping to hone his craft
