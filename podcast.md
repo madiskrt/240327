@@ -1,4 +1,5 @@
 
+- 240529 dm Stefan Sagmeister
 - 240528 dm David Remnick
 - 240528 dm Emily Nagoski, Ph.D.
 	- book: Come as you are [dl](https://drive.google.com/open?id=12vOwsrrqedKE4R6IjZx-ZVde1MJFNu-T&usp=drive_fs)
