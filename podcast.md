@@ -1,4 +1,5 @@
 
+- 240530 dm Roy Wood Jr.
 - 240529 dm Stefan Sagmeister
 	- podcast: 99% invisible
 	- book: Now is better
