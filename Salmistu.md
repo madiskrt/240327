@@ -1,6 +1,6 @@
 
-- [ ] sääsevõrk
-- [ ] patareid
+- [x] sääsevõrk
+- [x] patareid
 - [ ] internet
 -  nõudepesumasin
 	- [ ] taaduga nõudepesumasina tööd kokku leppida 🔺 
