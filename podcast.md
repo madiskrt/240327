@@ -1,4 +1,5 @@
 
+- 240604 dm Kip Thorne and Lia Halloran
 - 240530 dm Neville Brody
 - 240530 dm Isaac Fitzgerald
 - 240530 dm Roy Wood Jr.
