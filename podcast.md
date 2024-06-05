@@ -1,4 +1,6 @@
 
+- 240604 dm Paula Scher, Emily Oberman and Michael Bierut, Celebrating 50 Years of Pentagram
+	- book: Pentagram ?
 - 240604 dm Kip Thorne and Lia Halloran
 - 240530 dm Neville Brody
 - 240530 dm Isaac Fitzgerald
