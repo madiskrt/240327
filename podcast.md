@@ -1,4 +1,5 @@
 
+- 240606 dm Alan Dye
 - 240606 dm Kevin Kelly
 	- book: The inevitable
 	- book: Excellent advice for life
