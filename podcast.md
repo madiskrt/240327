@@ -1,4 +1,5 @@
 
+- 240607 dm Best of Design Matters: Dr. D’Wayne Edwards
 - 240606 dm Alan Dye
 	- apple vision pro (spacial computing)
 - 240606 dm Kevin Kelly
