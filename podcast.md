@@ -1,5 +1,5 @@
 
-- 240608 dm Lynn Goldsmith
+- 240608 dm Lynn Goldsmith 42m
 - 240607 dm Peter Arnell
 - 240607 dm Best of Design Matters: Dr. Temple Grandin
 - 240607 dm Best of Design Matters: Dr. D’Wayne Edwards
