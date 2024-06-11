@@ -1,4 +1,5 @@
 
+- [ ] Hansule helkurvest
 - [x] sääsevõrk
 - [x] patareid
 - [ ] internet
@@ -10,8 +11,7 @@
 - [x] halupuud kevadeks ⏳ 2024-05-01
 - [ ] valge ratas linna?
 - [ ] aia parandus
-- kanad suveks Kallastelt
-- kirjutada ka teisele kanade tädile
+- [x] kanad suveks: Jenni, Betti, Lonni
 
 | kp     | asukoht   | m2    | hind  | kv                                                                                      | city                                                                                                                   | komm      |
 | ------ | --------- | ----- | ----- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | --------- |
