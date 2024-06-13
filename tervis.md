@@ -1,5 +1,6 @@
 
 - [ ] uroloogi vastuvõtt ⏳ 2024-06-11 ⏫ 
+- uuringute saatekiri
 - kontroll ECG enne suve!?
 - [x] Iida vaktsiin teha aprill 🔼 📅 2024-04-15
 	- Teine vaktsiin mitte enne 7.06 
