@@ -1,4 +1,6 @@
 
+- 240617 dm Best of Design Matters: Adam Grant
+	- book: Think again
 - 240612 dm Guy Kawasaki
 	- podcast
 - 240610 uib Episode 283: Implementing Design Systems with Dan Mall
