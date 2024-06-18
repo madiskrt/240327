@@ -1,4 +1,5 @@
 
+- 240618 dm Michael Kimmelman
 - 240618 gk Dario Gil: Visionary IBM Chief of Research
 - 240617 dm Best of Design Matters: Adam Grant
 	- book: Think again
