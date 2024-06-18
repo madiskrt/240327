@@ -1,4 +1,7 @@
 
+- 240618 dm David Aaker
+	- #branding 
+	- 18 books ...
 - 240618 dm Mauro Porcini
 	- book: The human side of innovation
 - 240618 dm Michael Kimmelman
