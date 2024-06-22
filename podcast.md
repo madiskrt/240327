@@ -1,4 +1,5 @@
 
+- 240621 dm Daniel Mitura
 - 240618 dm David Aaker
 	- #branding 
 	- 18 books ...
