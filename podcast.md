@@ -1,5 +1,6 @@
 
 - 240623 dm Best of Design Matters: Edwin Schlossberg
+	- book: Interactive excellence
 - 240622 dm Best of Design Matters: Pete Souza
 - 240622 dm Scott Dadich
 	- netflix: Abstract
