@@ -1,4 +1,5 @@
 
+- 240629 dm Chip Kidd
 - 240623 dm Dylan Marron
 - 240623 dm Best of Design Matters: Edwin Schlossberg
 	- book: Interactive excellence
