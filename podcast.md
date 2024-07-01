@@ -1,5 +1,6 @@
 
 - 240629 dm Chip Kidd
+	- book: Go - graphic design for kids
 - 240623 dm Dylan Marron
 - 240623 dm Best of Design Matters: Edwin Schlossberg
 	- book: Interactive excellence
