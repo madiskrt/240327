@@ -1,4 +1,5 @@
 
+- 240701 dm Best of Design Matters: Richard Saul Wurman
 - 240629 dm Chip Kidd
 	- book: Go - graphic design for kids
 - 240623 dm Dylan Marron
