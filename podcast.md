@@ -1,5 +1,6 @@
 
 - 240702 dm Best of Design Matters: Simon Sinek
+	- book: leaders eat last
 - 240602 dm Best of Design Matters: Brian Koppelman
 - 240701 dm Best of Design Matters: Richard Saul Wurman
 - 240629 dm Chip Kidd
