@@ -1,4 +1,5 @@
 
+- 240709 dm Best of Design Matters: Dr. Dori Tunstall
 - 240702 dm Best of Design Matters: Simon Sinek
 	- book: leaders eat last
 - 240602 dm Best of Design Matters: Brian Koppelman
