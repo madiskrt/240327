@@ -1,5 +1,6 @@
 
 - 240710 dm Suneel Gupta
+	- book: Everyday Dharma: 8 Essential Practices for Finding Success and Joy in Everything You Do
 - 240709 dm Best of Design Matters: Dr. Dori Tunstall
 - 240702 dm Best of Design Matters: Simon Sinek
 	- book: leaders eat last
