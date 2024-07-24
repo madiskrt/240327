@@ -19,3 +19,4 @@
 | 240405 | Pedaspea  | 18582 | 24900 | [kv](https://www.kv.ee/muua-looduskaunis-mereaarne-korghaljastusega-kinni-3633142.html) |                                                                                                                        | bron 6.05 |
 
 Salmistu krunt: 35201:002:0680
+Üla-Peebu, Salmistu küla, Kuusalu vald, Harju maakond
