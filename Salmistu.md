@@ -20,3 +20,4 @@
 
 Salmistu krunt: 35201:002:0680
 Üla-Peebu, Salmistu küla, Kuusalu vald, Harju maakond
+74629
