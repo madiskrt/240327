@@ -21,7 +21,7 @@
 | aprill | 324  | 448 | 165,02 | koridori koristus |
 | mai    | 328  | 455 |  64,68 |                   |
 | juuni  | 332  | 459 |  58,12 |                   |
-| juuli  |      |     |        | muru 15-28.07     |
+| juuli  | 335  | 464 |        | muru 15-28.07     |
 | august |      |     |        | muru 12-25.08     |
 | sept   |      |     |        |                   |
 | okt    |      |     |        |                   |
