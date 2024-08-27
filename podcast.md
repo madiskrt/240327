@@ -1,4 +1,5 @@
 
+- 240827 nng 41 UX Accessibility
 - 240812 dm Catherine Opie
 - 240721 dm Jonathan Fields
 - 240710 dm Suneel Gupta
