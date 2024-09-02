@@ -4,7 +4,7 @@
 - [x] patareid
 - [ ] internet
 -  nõudepesumasin
-	- [ ] taaduga nõudepesumasina tööd kokku leppida 🔺 
+	- [x] taaduga nõudepesumasina tööd kokku leppida 🔺
 - [x] marjapõõsad aeda (Hortes) ⏳ 2024-04-13
 - [ ] paekivid jalgtee jaoks
 - [ ] märk koertele rannateele
