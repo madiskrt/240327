@@ -1,18 +1,18 @@
 
 värske:
-- [x] mahl
-- [x] jääsalat
-- [x] tomat🍅
-- [x] kurk🥒
-- [x] kartul🥔
+- [ ] mahl
+- [ ] jääsalat
+- [ ] tomat🍅
+- [ ] kurk🥒
+- [ ] kartul🥔
 - [ ] porgand🥕
 - [ ] brokkol🥦
 - [ ] lillkapsas
 - [x] abokaado🥑
-- [x] õunad🍏
+- [ ] õunad🍏
 - [ ] banaan🍌
-- [x] apelsin/mandariin🍊
-- [x] kiiwi🥝
+- [ ] apelsin/mandariin🍊
+- [ ] kiiwi🥝
 - [ ] pirn🍐
 - [ ] viinamarjad🍇
 - [x] sibulad🧅
@@ -20,26 +20,26 @@ värske:
 - [ ] basiilik
 - [ ] rosmariin
 
-- [ ] leib
+- [x] leib
 
 piimad:
 - [ ] piim🥛
-- [ ] keefir
+- [x] keefir
 - [ ] hapukoor
 - [ ] kodujuust
-- [ ] barista
-- [ ] juust🧀
+- [x] barista
+- [x] juust🧀
 - [ ] fetajuust
-- [ ] või
+- [x] või
 - [x] avokaadomääre
-- [x] jäätis🍦
-- [x] pelmeenid
-- [ ] muna🐣🥚
+- [ ] jäätis🍦
+- [ ] pelmeenid
+- [x] muna🐣🥚
 
 lihad:
 - [ ] sink (broileririnnafilee)
 - [ ] vorst
-- [x] kanafilee
+- [ ] kanafilee
 - [ ] kala
 - [ ] liha🥩
 
@@ -58,11 +58,11 @@ varia/varud:
 - [ ] võileivakurk
 - [ ] kohvi☕️
 - [ ] päikesekuivatatud tomatid
-- [ ] kapparid
+- [x] kapparid
 - [ ] tatar
 - [ ] kaerahelbed
 - [ ] kaerajahu
-- [ ] Barilla tomatikaste
+- [x] Barilla tomatikaste
 - [ ] purustatud tomatid🥫
 - [ ] kikerherned
 - [ ] pannkoogijahu
@@ -71,5 +71,5 @@ varia/varud:
 - [ ] mineraalvesi
 - [ ] õlu🍺
 - [ ] müsli
-- [ ] puljongipasta
+- [x] puljongipasta
 - [ ] kakaokrôbuskid
