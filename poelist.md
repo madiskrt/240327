@@ -20,49 +20,49 @@ värske:
 - [ ] basiilik
 - [ ] rosmariin
 
-- [x] leib
+- [ ] leib
 
 piimad:
 - [ ] piim🥛
 - [ ] keefir
 - [ ] hapukoor
 - [ ] kodujuust
-- [x] barista
-- [x] juust🧀
-- [x] fetajuust
-- [x] või
+- [ ] barista
+- [ ] juust🧀
+- [ ] fetajuust
+- [ ] või
 - [x] avokaadomääre
 - [x] jäätis🍦
 - [x] pelmeenid
-- [x] muna🐣🥚
+- [ ] muna🐣🥚
 
 lihad:
-- [x] sink (broileririnnafilee)
-- [x] vorst
+- [ ] sink (broileririnnafilee)
+- [ ] vorst
 - [x] kanafilee
 - [ ] kala
 - [ ] liha🥩
 
 mittesöödav:
-- [x] salvakad
+- [ ] salvakad
 - [ ] wc paber
 - [ ] pesugeel sinine
 - [ ] pesuvalgendi
 - [ ] pesuäädikas
 - [ ] wc puhastusvahend
-- [x] hambapasta
+- [ ] hambapasta
 - [ ] bioprügi kotid
 - [ ] tavalise prügikotid
 
 varia/varud:
-- [x] võileivakurk
-- [x] kohvi☕️
-- [x] päikesekuivatatud tomatid
-- [x] kapparid
-- [x] tatar
-- [x] kaerahelbed
-- [x] kaerajahu
-- [x] Barilla tomatikaste
+- [ ] võileivakurk
+- [ ] kohvi☕️
+- [ ] päikesekuivatatud tomatid
+- [ ] kapparid
+- [ ] tatar
+- [ ] kaerahelbed
+- [ ] kaerajahu
+- [ ] Barilla tomatikaste
 - [ ] purustatud tomatid🥫
 - [ ] kikerherned
 - [ ] pannkoogijahu
@@ -70,6 +70,6 @@ varia/varud:
 - [ ] pipraterad
 - [ ] mineraalvesi
 - [ ] õlu🍺
-- [x] müsli
+- [ ] müsli
 - [ ] puljongipasta
 - [ ] kakaokrôbuskid
