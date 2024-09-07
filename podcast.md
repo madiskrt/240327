@@ -1,6 +1,6 @@
 
 - 240907 db Tony Fadell
-	- book: # Build: An Unorthodox Guide to Making Things Worth Making
+	- book: # Build: An Unorthodox Guide to Making Things Worth Making (amz 4.7)
 - 240827 nng 41 UX Accessibility
 - 240812 dm Catherine Opie
 - 240721 dm Jonathan Fields
