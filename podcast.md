@@ -1,4 +1,5 @@
 
+- 240908 wit https://podcasts.apple.com/ee/podcast/what-it-takes/id1025864075?i=1000568710633
 - 240907 db Tony Fadell
 	- book: # Build: An Unorthodox Guide to Making Things Worth Making (amz 4.7)
 - 240827 nng 41 UX Accessibility
