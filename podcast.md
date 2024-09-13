@@ -1,4 +1,5 @@
 
+- 240912 brb pt3 https://podcasts.apple.com/ee/podcast/behind-the-bastards/id1373812661?i=1000648881064
 - 240811 btb pt2
 	- Apple designer Ives
 	- Steve Wozniak
