@@ -1,4 +1,6 @@
 
+- 240920 Tony Fadell https://podcasts.apple.com/ee/podcast/lex-fridman-podcast/id1434243584?i=1000566547644
+	- book: Build
 - 240912 brb pt3 https://podcasts.apple.com/ee/podcast/behind-the-bastards/id1373812661?i=1000648881064
 - 240811 btb pt2
 	- Apple designer Ives
