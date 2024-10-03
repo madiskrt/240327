@@ -1,6 +1,6 @@
 
-- 241003 founders
-	- book: How to sell like Steve Jobs
+- 241003 founders: How to sell like Steve Jobs
+	- book: The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience
 - 240924 How Steve Jobs kept things simple https://podcasts.apple.com/ee/podcast/founders/id1141877104?i=1000656093680
 - 240920 Tony Fadell https://podcasts.apple.com/ee/podcast/lex-fridman-podcast/id1434243584?i=1000566547644
 	- book: Build
