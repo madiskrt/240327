@@ -1,4 +1,5 @@
 
+- 241003 founders: What I learned from reading Steve Jobs by Walter Isaacson.
 - 241003 founders: How to sell like Steve Jobs
 	- book: The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience
 - 240924 How Steve Jobs kept things simple https://podcasts.apple.com/ee/podcast/founders/id1141877104?i=1000656093680
