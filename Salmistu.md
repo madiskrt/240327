@@ -2,11 +2,11 @@
 - [ ] Hansule helkurvest
 - [x] sääsevõrk
 - [x] patareid
-- [ ] internet
+- [x] internet
 -  nõudepesumasin
 	- [x] taaduga nõudepesumasina tööd kokku leppida 🔺
 - [x] marjapõõsad aeda (Hortes) ⏳ 2024-04-13
-- [ ] paekivid jalgtee jaoks
+- [x] paekivid jalgtee jaoks
 - [ ] märk koertele rannateele
 - [x] halupuud kevadeks ⏳ 2024-05-01
 - [ ] valge ratas linna?

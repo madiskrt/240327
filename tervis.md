@@ -1,4 +1,5 @@
 
+- [ ] kolesterooli mõõtmine 📅 2024-12-31 
 - [x] uroloogi vastuvõtt ⏫ ⏳ 2024-06-11
 - uuringute saatekiri
 - kontroll ECG enne suve!?
