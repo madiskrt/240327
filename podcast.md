@@ -1,6 +1,8 @@
 - 241027 Tony Fadell https://podcasts.apple.com/ee/podcast/the-tim-ferriss-show/id863897795?i=1000460534685
 	- movie General Magic
 	- book: who moved my cheese
+	- book: ... shadows
+	- "staying beginner"
 - 241020 a Atlassian
 	- book: Shoe Dog https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44
 - 241016 a https://podcasts.apple.com/ee/podcast/acquired/id1050462261?i=1000657758174 Starbucks
