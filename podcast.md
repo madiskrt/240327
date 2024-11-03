@@ -1,5 +1,6 @@
 - 241103 Nir Eyal https://podcasts.apple.com/ee/podcast/next-level-soul-podcast-with-alex-ferrari/id1560904383?i=1000672047428
 	- book: Hooked
+	- book: Indistractable
 - 241027 Tony Fadell https://podcasts.apple.com/ee/podcast/the-tim-ferriss-show/id863897795?i=1000460534685
 	- movie General Magic
 	- book: who moved my cheese
