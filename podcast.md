@@ -1,5 +1,13 @@
-
+- 241103 Nir Eyal https://podcasts.apple.com/ee/podcast/next-level-soul-podcast-with-alex-ferrari/id1560904383?i=1000672047428
+	- book: Hooked
+	- book: Indistractable [amz](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/194883653X)
+- 241027 Tony Fadell https://podcasts.apple.com/ee/podcast/the-tim-ferriss-show/id863897795?i=1000460534685
+	- movie General Magic
+	- book: who moved my cheese
+	- book: ... shadows
+	- "staying beginner"
 - 241020 a Atlassian
+	- book: Shoe Dog https://www.amazon.com/Shoe-Dog-Memoir-Creator-Nike-ebook/dp/B0176M1A44
 - 241016 a https://podcasts.apple.com/ee/podcast/acquired/id1050462261?i=1000657758174 Starbucks
 - 241016 f What I learned from rereading Random Reminiscences of Men and Events by John D. Rockefeller
 - 241007 f Michael Jordan https://podcasts.apple.com/ee/podcast/founders/id1141877104?i=1000655294403
