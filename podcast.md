@@ -1,3 +1,5 @@
+- 241113 Persuasive Design: https://podcasts.apple.com/ee/podcast/inevitable/id1462776122?i=1000464456175
+	- book: Persuasive Technology
 - 241103 Nir Eyal https://podcasts.apple.com/ee/podcast/next-level-soul-podcast-with-alex-ferrari/id1560904383?i=1000672047428
 	- book: Hooked
 	- book: Indistractable [amz](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/194883653X)
