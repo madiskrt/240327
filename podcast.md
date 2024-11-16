@@ -1,3 +1,4 @@
+
 - 241114 PD https://podcasts.apple.com/ee/podcast/boagworld-ux-design-leadership-marketing-conversion/id411449225?i=1000407151348
 	- book: Psychology for designers
 - 241113 Persuasive Design: https://podcasts.apple.com/ee/podcast/inevitable/id1462776122?i=1000464456175
