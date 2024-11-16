@@ -1,6 +1,6 @@
 
 - 241114 PD https://podcasts.apple.com/ee/podcast/boagworld-ux-design-leadership-marketing-conversion/id411449225?i=1000407151348
-	- book: Psychology for designers [amz](https://www.amazon.com/Psychology-Designers-psychology-design-process-ebook/dp/B06Y593QPW)
+	- book: Psychology for designers [amz](https://www.amazon.com/Psychology-Designers-psychology-design-process-ebook/dp/B06Y593QPW) 3.
 - 241113 Persuasive Design: https://podcasts.apple.com/ee/podcast/inevitable/id1462776122?i=1000464456175
 	- book: Persuasive Technology
 - 241103 Nir Eyal https://podcasts.apple.com/ee/podcast/next-level-soul-podcast-with-alex-ferrari/id1560904383?i=1000672047428
