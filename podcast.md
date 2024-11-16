@@ -39,11 +39,11 @@
 	- book: backable
 - 240709 dm Best of Design Matters: Dr. Dori Tunstall
 - 240702 dm Best of Design Matters: Simon Sinek
-	- book: leaders eat last amz 4
+	- book: leaders eat last [amz](https://www.amazon.com/Leaders-Eat-Last-Together-Others/dp/1591845327) 4.7 (2014)
 - 240602 dm Best of Design Matters: Brian Koppelman
 - 240701 dm Best of Design Matters: Richard Saul Wurman
 - 240629 dm Chip Kidd
-	- book: Go - graphic design for kids
+	- book: # Go: A Kidd’s Guide to Graphic Design amz 4.2 (2022)
 - 240623 dm Dylan Marron
 - 240623 dm Best of Design Matters: Edwin Schlossberg
 	- book: Interactive excellence
