@@ -30,7 +30,7 @@
 - 240908 atd https://podcasts.apple.com/ee/podcast/steve-jobs-at-the-d-all-things-digital-conference-audio/id530265054?i=1000116189698
 - 240908 wit https://podcasts.apple.com/ee/podcast/what-it-takes/id1025864075?i=1000568710633
 - 240907 db Tony Fadell
-	- book: # Build: An Unorthodox Guide to Making Things Worth Making (amz 4.7)
+	- book: # Build: An Unorthodox Guide to Making Things Worth Making ([amz](https://www.amazon.com/Build-Unorthodox-Guide-Making-Things/dp/0063046067) 4.7)
 - 240827 nng 41 UX Accessibility
 - 240812 dm Catherine Opie
 - 240721 dm Jonathan Fields
