@@ -4,7 +4,7 @@
 - 241113 Persuasive Design: https://podcasts.apple.com/ee/podcast/inevitable/id1462776122?i=1000464456175
 	- book: Persuasive Technology [amz](https://www.amazon.com/Persuasive-Technology-Computers-Interactive-Technologies/dp/1558606432) 4.5 (2002)
 - 241103 Nir Eyal https://podcasts.apple.com/ee/podcast/next-level-soul-podcast-with-alex-ferrari/id1560904383?i=1000672047428
-	- book: Hooked
+	- book: Hooked [amz](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788) 4.5 (2014)
 	- book: Indistractable [amz](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/194883653X)
 - 241027 Tony Fadell https://podcasts.apple.com/ee/podcast/the-tim-ferriss-show/id863897795?i=1000460534685
 	- movie General Magic
