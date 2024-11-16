@@ -8,7 +8,7 @@
 	- book: Indistractable [amz](https://www.amazon.com/Indistractable-Control-Your-Attention-Choose/dp/194883653X)
 - 241027 Tony Fadell https://podcasts.apple.com/ee/podcast/the-tim-ferriss-show/id863897795?i=1000460534685
 	- movie General Magic
-	- book: who moved my cheese
+	- book: # Who Moved My Cheese? amz 4.6 (1999)
 	- book: ... shadows
 	- "staying beginner"
 - 241020 a Atlassian
