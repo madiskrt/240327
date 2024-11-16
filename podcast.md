@@ -46,7 +46,7 @@
 	- book: # Go: A Kidd’s Guide to Graphic Design [amz](https://www.amazon.com/Go-Kidds-Guide-Graphic-Design/dp/1523515651) 4.2 (2022)
 - 240623 dm Dylan Marron
 - 240623 dm Best of Design Matters: Edwin Schlossberg
-	- book: Interactive excellence amz 4.2 (1998)
+	- book: Interactive excellence [amz](https://www.amazon.com/Interactive-Excellence-Developing-Standards-Contemporary/dp/0345423712) 4.2 (1998)
 - 240622 dm Best of Design Matters: Pete Souza
 - 240622 dm Scott Dadich
 	- netflix: Abstract
