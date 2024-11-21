@@ -1,4 +1,6 @@
 
+- 241121 Nik Parekh 
+	- book: The Future of Extraordinary Design
 - 241121 Don Norman design of everyday https://podcasts.apple.com/ee/podcast/switch-statement/id1610128996?i=1000621846187
 	- book: Jesse Schell - The Art of Game Design: A Book of Lenses
 - 241117 Jakob Nielsen https://podcasts.apple.com/ee/podcast/brave-ux-with-brendan-jarvis/id1552607805?i=1000653913605
