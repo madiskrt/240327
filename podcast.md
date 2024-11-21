@@ -1,4 +1,6 @@
 
+- 241121 Don Norman design of everyday https://podcasts.apple.com/ee/podcast/switch-statement/id1610128996?i=1000621846187
+	- book: Jesse Schell - The Art of Game Design: A Book of Lenses
 - 241117 Jakob Nielsen https://podcasts.apple.com/ee/podcast/brave-ux-with-brendan-jarvis/id1552607805?i=1000653913605
 - 241114 PD https://podcasts.apple.com/ee/podcast/boagworld-ux-design-leadership-marketing-conversion/id411449225?i=1000407151348
 	- book: Psychology for designers [amz](https://www.amazon.com/Psychology-Designers-psychology-design-process-ebook/dp/B06Y593QPW) 3.8
