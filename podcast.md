@@ -77,7 +77,7 @@
 - 240606 dm Alan Dye
 	- apple vision pro (spacial computing)
 - 240606 dm Kevin Kelly
-	- book: The inevitable
+	- book: # The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future 4.3 (2017) [amz](https://www.amazon.com/Inevitable-Understanding-Technological-Forces-Future/dp/0143110373)
 	- book: Excellent advice for life
 - 240604 dm Paula Scher, Emily Oberman and Michael Bierut, Celebrating 50 Years of Pentagram
 	- book: Pentagram ?
