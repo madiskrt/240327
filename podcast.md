@@ -105,7 +105,7 @@
 - 240515 nng 39. Cross-Cultural UX Research (feat. Feifei Liu, International UX Researcher)
 - 240513 db Sheena Iyengar: Choose to think bigger
 	- book: the art of choosing 4.5 (2011) [amz](https://www.amazon.com/Art-Choosing-Sheena-Iyengar/dp/0446504114)
-	- book: think bigger?
+	- book: Think Bigger: How to Innovate 4.5 (2023) [amz](https://www.amazon.com/Think-Bigger-Innovate-Sheena-Iyengar/dp/0231198841)
 - 240512 db John Maeda: AI + Design
 	- book: How to speak machines?
 - 240509 uib Episode 260: Managing the Design Process with Paul Boag
