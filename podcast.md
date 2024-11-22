@@ -77,8 +77,8 @@
 - 240606 dm Alan Dye
 	- apple vision pro (spacial computing)
 - 240606 dm Kevin Kelly
-	- book: # The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future 4.3 (2017) [amz](https://www.amazon.com/Inevitable-Understanding-Technological-Forces-Future/dp/0143110373)
-	- book: Excellent advice for life
+	- book: The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future 4.3 (2017) [amz](https://www.amazon.com/Inevitable-Understanding-Technological-Forces-Future/dp/0143110373)
+	- book: Excellent Advice for Living: Wisdom I Wish I'd Known Earlier 4.6 (2023) [amz](https://www.amazon.com/Excellent-Advice-Living-Wisdom-Earlier/dp/0593654528)
 - 240604 dm Paula Scher, Emily Oberman and Michael Bierut, Celebrating 50 Years of Pentagram
 	- book: Pentagram ?
 - 240604 dm Kip Thorne and Lia Halloran
@@ -87,7 +87,7 @@
 - 240530 dm Roy Wood Jr.
 - 240529 dm Stefan Sagmeister
 	- podcast: 99% invisible
-	- book: Now is better
+	- book: Now is better 4.7 
 - 240528 dm David Remnick
 - 240528 dm Emily Nagoski, Ph.D.
 	- book: Come as you are [dl](https://drive.google.com/open?id=12vOwsrrqedKE4R6IjZx-ZVde1MJFNu-T&usp=drive_fs)
