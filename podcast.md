@@ -107,7 +107,7 @@
 	- book: the art of choosing 4.5 (2011) [amz](https://www.amazon.com/Art-Choosing-Sheena-Iyengar/dp/0446504114)
 	- book: Think Bigger: How to Innovate 4.5 (2023) [amz](https://www.amazon.com/Think-Bigger-Innovate-Sheena-Iyengar/dp/0231198841)
 - 240512 db John Maeda: AI + Design
-	- book: How to speak machines?
+	- book: How to Speak Machine: Computational Thinking for the Rest of Us 4.3 (2019) [amz](https://www.amazon.com/How-Speak-Machine-Computational-Thinking/dp/039956442X)
 - 240509 uib Episode 260: Managing the Design Process with Paul Boag
 - 240509 db Tasha Golden: Avoiding burnout while pursuing creativity with passion
 - 240507 db John Cleese: A cheerful guide to creativity
