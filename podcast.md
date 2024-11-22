@@ -189,7 +189,7 @@
 	book: service design 4.3 dl >
 	systems thinking
 - 240316 il Stephen P. Anderson on Cognitive Environments
-	book: figure it out >
+	book: figure it out 4.4 >
 	book: seductive interaction design 4.3 dl >
 - 240314 il Jesse James Garrett on Leadership and Information Architecture
 	book: elements of user experience
