@@ -62,11 +62,11 @@
 - 240618 dm David Aaker
 	- #branding 
 - 240618 dm Mauro Porcini
-	- book: The human side of innovation 4.5 amz
+	- book: The human side of innovation 4.5 [amz](https://www.amazon.com/Human-Side-Innovation-Power-People/dp/1523002883)
 - 240618 dm Michael Kimmelman
 - 240618 gk Dario Gil: Visionary IBM Chief of Research
 - 240617 dm Best of Design Matters: Adam Grant
-	- book: Think again
+	- book: Think again 4.6 [amz](https://www.amazon.com/Think-Again-Power-Knowing-What/dp/1984878107)
 - 240612 dm Guy Kawasaki
 	- podcast
 - 240610 uib Episode 283: Implementing Design Systems with Dan Mall
