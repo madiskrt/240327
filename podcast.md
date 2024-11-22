@@ -3,7 +3,7 @@
 	- book: The Future of Extraordinary Design 4.8 [amz](https://www.amazon.com/Future-Extraordinary-Design-Where-going/dp/1543993125) dl
 	- book: Creative Selection: Inside Apple’s Design Process During the Golden Age of Steve Jobs 4.4 [amz](https://www.amazon.com/Creative-Selection-Inside-Apples-Process/dp/1250194466) dl
 	- Jobs to be done 4.5 [amz](https://www.amazon.com/Jobs-Be-Done-Playbook-Organization/dp/1933820683) dl
-	- book: start with why
+	- book: start with why 4.6 [amz](https://www.amazon.com/Start-Why-Leaders-Inspire-Everyone/dp/1591846447) 
 - 241121 Don Norman design of everyday https://podcasts.apple.com/ee/podcast/switch-statement/id1610128996?i=1000621846187
 	- book: Jesse Schell - The Art of Game Design: A Book of Lenses
 - 241117 Jakob Nielsen https://podcasts.apple.com/ee/podcast/brave-ux-with-brendan-jarvis/id1552607805?i=1000653913605
