@@ -371,11 +371,11 @@
 - .. 063: Mindset & Learning How to Learn with Jessica Ivins (medium)
 	book: Mindset
 	book: Dan Brown communication
-	book: simple and usable
+	book: simple and usable 4.4 (2010) [amz](https://www.amazon.com/Simple-Usable-Mobile-Interaction-Design/dp/0321703545)
 	book: letting go of the words
 - 231021 064: How to Become Indistractable with Nir Eyal
 	book: Hooked
-	book: Ndistractable
+	book: Indistractable
 - 231017 065: Yes, AI will Replace Designers with Jasmine Oh
 - 231015..  066: Is Web Design Dead? with Jeffrey Zeldman
 	designers are solving problems
