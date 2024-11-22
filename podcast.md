@@ -381,7 +381,7 @@
 	designers are solving problems
 	https://userdefenders.com/podcast/page/4/
 - 231009 .. 067: Design for How People Think with John Whalen
-	book: Design what people think
+	book: Design for How People Think: Using Brain Science to Build Better Products 4.5 (2019) [amz](https://www.amazon.com/Designing-How-People-Think-Products/dp/1491985453)
 	book: Thinking fast and slow
 	book: Designing for emotion
 	book: Digital Transformation (Lindsey ..)
