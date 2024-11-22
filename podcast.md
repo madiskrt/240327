@@ -87,7 +87,7 @@
 - 240530 dm Roy Wood Jr.
 - 240529 dm Stefan Sagmeister
 	- podcast: 99% invisible
-	- book: Now is better 4.7 
+	- book: Now is better 4.7 (2023) [amz](https://www.amazon.com/Now-Better-Stefan-Sagmeister/dp/1838666966)
 - 240528 dm David Remnick
 - 240528 dm Emily Nagoski, Ph.D.
 	- book: Come as you are [dl](https://drive.google.com/open?id=12vOwsrrqedKE4R6IjZx-ZVde1MJFNu-T&usp=drive_fs)
@@ -104,7 +104,7 @@
 - 240515 db Pablo Stanley: A creative force of nature on the importance of persistence and hustle
 - 240515 nng 39. Cross-Cultural UX Research (feat. Feifei Liu, International UX Researcher)
 - 240513 db Sheena Iyengar: Choose to think bigger
-	- book: the art of choosing?
+	- book: the art of choosing 4.5 (2011) [amz](https://www.amazon.com/Art-Choosing-Sheena-Iyengar/dp/0446504114)
 	- book: think bigger?
 - 240512 db John Maeda: AI + Design
 	- book: How to speak machines?
