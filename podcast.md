@@ -462,7 +462,7 @@
 - 221105 013: Practice What You Do with Dan Mall
 	lean ux
 - 221101 011: The Best Interface is No Interface with Golden Krishna
-	 designing for digital age
+	 book: Designing for the Digital Age: How to Create Human-Centered Products and Services 4.6 (2009) [amz](https://www.amazon.com/Designing-Digital-Age-Human-Centered-Products/dp/0470229101)
 - 221022 007: Focus More on Solving Problems and Less On Dribbble Likes with Rafal Tomal
 	ux tool: envision?
 - 221019 #224 The business value of design with Jeanne Liedtka
