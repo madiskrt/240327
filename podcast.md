@@ -319,7 +319,7 @@
 	book: psychology for designers
 	book: business model generation + follow up
 - 231221 040: Should Developers Design with Laura Elizabeth
-	book: badass making users awesome (pdf+)
+	book: Badass: Making Users Awesome (pdf+) 4.6 (2015) [amz](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra/dp/1491919019)
 - 231221 041: Everything’s Terrible, and That’s Great with Matt Griffin
 - 231221 042: Practical Design Discovery with Dan Brown
 	book: practical design discovery (a book apart)
