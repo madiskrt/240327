@@ -333,7 +333,7 @@
 	https://userdefenders.com/podcast/page/10/
 - 231215 045: Criticize by Creating with Alexa Roman
 	customer development
-	book: running lean
+	book: running lean 4.5 (2012) [amz](https://www.amazon.com/Running-Lean-Iterate-Plan-Works/dp/1449305172)
 - 231214 Designing for Designers: Building InVision Studio with Tom Giannattasio
 - 231214 046: Good Design Favors the Curious with Joe Johnston
 	podcast: Grumpy old geeks
