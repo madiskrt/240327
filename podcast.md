@@ -1,6 +1,6 @@
 
 - 241121 Nik Parekh 
-	- book: The Future of Extraordinary Design 4.8 [amz](https://www.amazon.com/Future-Extraordinary-Design-Where-going/dp/1543993125)
+	- book: The Future of Extraordinary Design 4.8 [amz](https://www.amazon.com/Future-Extraordinary-Design-Where-going/dp/1543993125) dl
 	- book: Creative Selection: Inside Apple’s Design Process During the Golden Age of Steve Jobs
 	- jobs to be done
 	- book: start with why
