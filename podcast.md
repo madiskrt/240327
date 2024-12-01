@@ -1,4 +1,5 @@
 
+- 241201 Tim Cook book https://podcasts.apple.com/ee/podcast/triangulation-audio/id415842414?i=1000435509822
 - 241121 Nik Parekh 
 	- book: The Future of Extraordinary Design 4.8 [amz](https://www.amazon.com/Future-Extraordinary-Design-Where-going/dp/1543993125) dl >
 	- book: Creative Selection: Inside Apple’s Design Process During the Golden Age of Steve Jobs 4.4 [amz](https://www.amazon.com/Creative-Selection-Inside-Apples-Process/dp/1250194466) dl >
