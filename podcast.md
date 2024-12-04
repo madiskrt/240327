@@ -5,7 +5,7 @@
 	- book: Born to Win Find Your Success Code [amz](https://www.amazon.com/Born-Find-Your-Success-Code/dp/0983156514)
 	- book: Ziglar on Selling: The Ultimate Handbook for the Complete Sales Professional [amz](https://www.amazon.com/Ziglar-Selling-Ultimate-Handbook-Professional/dp/0785263322)
 	- book: Top Performance: How to Develop Excellence in Yourself and Others [amz](https://www.amazon.com/Top-Performance-Develop-Excellence-Yourself/dp/0800759745)
-	- 
+	- book: Better Than Good: Creating a Life You Can't Wait to Live [amz](https://www.amazon.com/Better-Than-Good-Creating-Life/dp/159145400X)
 - 241201 Tim Cook book https://podcasts.apple.com/ee/podcast/triangulation-audio/id415842414?i=1000435509822
 	- amz https://www.amazon.com/Tim-Cook-Genius-Apple-Level/dp/0525537600/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=twitllc-20&linkId=b4cf7c3e1c5bcbe62aeeeaf6ff7144a1&language=en_US
 - 241121 Nik Parekh 
