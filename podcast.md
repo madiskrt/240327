@@ -1,4 +1,6 @@
 
+- 241208 Pentagram https://podcasts.apple.com/ee/podcast/memberful-design/id1655319740?i=1000589061919
+	- Eddie Opara
 - 241204 Zig Ziglar https://podcasts.apple.com/ee/podcast/motiv8-the-motivation-podcast-and-inspiration-podcast/id1505213616?i=1000663178490
 	- book: Secrets of closing a sale amz https://www.amazon.com/Zig-Ziglars-Secrets-Closing-Sale/dp/0425081028
 - 241201 Tim Cook book https://podcasts.apple.com/ee/podcast/triangulation-audio/id415842414?i=1000435509822
