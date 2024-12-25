@@ -68,7 +68,7 @@
 - 240618 dm David Aaker
 	- #branding 
 - 240618 dm Mauro Porcini
-	- book: The human side of innovation 4.5 [amz](https://www.amazon.com/Human-Side-Innovation-Power-People/dp/1523002883)
+	- book: The human side of innovation 4.5 [amz](https://www.amazon.com/Human-Side-Innovation-Power-People/dp/1523002883) dl
 - 240618 dm Michael Kimmelman
 - 240618 gk Dario Gil: Visionary IBM Chief of Research
 - 240617 dm Best of Design Matters: Adam Grant
