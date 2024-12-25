@@ -49,7 +49,7 @@
 - 240812 dm Catherine Opie
 - 240721 dm Jonathan Fields
 - 240710 dm Suneel Gupta
-	- book: Everyday Dharma: 8 Essential Practices for Finding Success and Joy in Everything You Do [amz](https://www.amazon.com/Everyday-Dharma-Essential-Practices-Everything/dp/0063143879) 4.7 (2023)
+	- book: Everyday Dharma: 8 Essential Practices for Finding Success and Joy in Everything You Do [amz](https://www.amazon.com/Everyday-Dharma-Essential-Practices-Everything/dp/0063143879) 4.7 (2023) dl
 	- book: Backable: The Surprising Truth Behind What Makes People Take a Chance on You 4.6 [amz](https://www.amazon.com/Backable-Surprising-Behind-People-Chance/dp/0316494518)
 - 240709 dm Best of Design Matters: Dr. Dori Tunstall
 - 240702 dm Best of Design Matters: Simon Sinek
