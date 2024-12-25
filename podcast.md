@@ -84,7 +84,7 @@
 	- apple vision pro (spacial computing)
 - 240606 dm Kevin Kelly
 	- book: The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future 4.3 (2017) [amz](https://www.amazon.com/Inevitable-Understanding-Technological-Forces-Future/dp/0143110373)
-	- book: Excellent Advice for Living: Wisdom I Wish I'd Known Earlier 4.6 (2023) [amz](https://www.amazon.com/Excellent-Advice-Living-Wisdom-Earlier/dp/0593654528)
+	- book: Excellent Advice for Living: Wisdom I Wish I'd Known Earlier 4.6 (2023) [amz](https://www.amazon.com/Excellent-Advice-Living-Wisdom-Earlier/dp/0593654528) dl
 - 240604 dm Paula Scher, Emily Oberman and Michael Bierut, Celebrating 50 Years of Pentagram
 	- book: Pentagram ?
 - 240604 dm Kip Thorne and Lia Halloran
