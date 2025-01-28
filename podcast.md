@@ -1,4 +1,7 @@
 
+- 250128 il priorities
+	- book: managing prioritization
+	- book: first things first
 - 250128 il https://podcasts.apple.com/ee/podcast/the-informed-life/id1450117117?i=1000677234675
 - 250121 db https://podcasts.apple.com/ee/podcast/design-better/id1266839739?i=1000684080959
 	- book: UX team of one
