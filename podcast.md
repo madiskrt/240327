@@ -1,4 +1,6 @@
 
+- 250128 service design https://podcasts.apple.com/ee/podcast/the-informed-life/id1450117117?i=1000666545688
+	- book: orchestrating experiences
 - 250128 il priorities
 	- book: managing prioritization
 	- book: first things first
