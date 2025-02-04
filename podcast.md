@@ -1,4 +1,6 @@
 
+- 250131 aq beats https://podcasts.apple.com/ee/podcast/acquired/id1050462261?i=1000428067448
+	- movie: hbo the defiant ones?
 - 250128 service design https://podcasts.apple.com/ee/podcast/the-informed-life/id1450117117?i=1000666545688
 	- book: orchestrating experiences 4.7
 - 250128 il priorities
