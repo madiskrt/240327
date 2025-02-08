@@ -7,10 +7,10 @@
 	- book: orchestrating experiences 4.7 [amz](https://www.amazon.com/Orchestrating-Experiences-Collaborative-Design-Complexity/dp/193382073X) pdf only
 - 250128 il priorities
 	- book: managing prioritization 4.6
-	- book: first things first
+	- book: first things first 4.6 [amz](https://www.amazon.com/First-Things-Stephen-R-Covey/dp/0684802031)
 - 250128 il https://podcasts.apple.com/ee/podcast/the-informed-life/id1450117117?i=1000677234675
 - 250121 db https://podcasts.apple.com/ee/podcast/design-better/id1266839739?i=1000684080959
-	- book: UX team of one 4.6
+	- book: UX team of one 4.6 dl
 - 241208 Pentagram https://podcasts.apple.com/ee/podcast/memberful-design/id1655319740?i=1000589061919
 	- Eddie Opara
 - 241204 Zig Ziglar https://podcasts.apple.com/ee/podcast/motiv8-the-motivation-podcast-and-inspiration-podcast/id1505213616?i=1000663178490
