@@ -1,4 +1,5 @@
 
+- 250212 Notion AI https://podcasts.apple.com/ee/podcast/latent-space-the-ai-engineer-podcast/id1674008350?i=1000615331829
 - 250204 db Jake Knapp https://podcasts.apple.com/ee/podcast/design-better/id1266839739?i=1000686216694
 	- book: Make Time 4.5 [amz](https://www.amazon.com/Make-Time-Focus-Matters-Every/dp/0525572422 dl
 - 250131 aq beats https://podcasts.apple.com/ee/podcast/acquired/id1050462261?i=1000428067448
