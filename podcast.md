@@ -1,4 +1,6 @@
 
+- 250216 Waldorf education
+	- Waldorf school
 - 250214 Jesse James Garrett https://podcasts.apple.com/ee/podcast/the-ux-intern/id684613036?i=1000315634951
 - 250212 Notion AI https://podcasts.apple.com/ee/podcast/latent-space-the-ai-engineer-podcast/id1674008350?i=1000615331829
 - 250204 db Jake Knapp https://podcasts.apple.com/ee/podcast/design-better/id1266839739?i=1000686216694
