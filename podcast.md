@@ -1,4 +1,6 @@
 
+- 250327 db Christian Madsbjerg https://podcasts.apple.com/ee/podcast/design-better/id1266839739?i=1000393547118
+	- book: Sensemaking: The Power of the Humanities in the Age of the Algorithm
 - 250325 Jake Knapp https://podcasts.apple.com/ee/podcast/design-better/id1266839739?i=1000392938133
 	- book: Sprint
 - 250323 dm Tim Brown https://podcasts.apple.com/ee/podcast/design-matters-with-debbie-millman/id328074695?i=1000320035482
