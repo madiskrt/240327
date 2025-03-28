@@ -1,4 +1,6 @@
-
+- 250328 https://podcasts.apple.com/ee/podcast/design-better/id1266839739?i=1000406751398
+	- book: Remote research?
+	- book: Walter Isacson - Leonardo Da Vinci
 - 250327 db Christian Madsbjerg https://podcasts.apple.com/ee/podcast/design-better/id1266839739?i=1000393547118
 	- book: Sensemaking: The Power of the Humanities in the Age of the Algorithm
 - 250325 Jake Knapp https://podcasts.apple.com/ee/podcast/design-better/id1266839739?i=1000392938133
