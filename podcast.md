@@ -1,3 +1,5 @@
+- 250413 db design systems
+	- book: Madsen - Design systems
 - 250328 Bill Moggridge https://podcasts.apple.com/ee/podcast/design-matters-with-debbie-millman/id328074695?i=1000320035484
 	- book: Designing interactions
 - 250328 https://podcasts.apple.com/ee/podcast/design-better/id1266839739?i=1000406751398
