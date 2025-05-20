@@ -5,7 +5,7 @@
 - 250413 db design systems
 	- book: Madsen - Design systems
 - 250328 Bill Moggridge https://podcasts.apple.com/ee/podcast/design-matters-with-debbie-millman/id328074695?i=1000320035484
-	- book: Designing interactions
+	- book: Designing interactions [lg](https://libgen.is/search.php?req=Designing+Interactions&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def) (pdf)
 - 250328 https://podcasts.apple.com/ee/podcast/design-better/id1266839739?i=1000406751398
 	- book: Remote research?
 	- book: Walter Isacson - Leonardo Da Vinci https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150
