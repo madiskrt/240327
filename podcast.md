@@ -1,3 +1,4 @@
+- 250520 Esther Perel dm https://podcasts.apple.com/ee/podcast/design-matters-with-debbie-millman/id328074695?i=1000470077547
 - dm Steven Heller https://podcasts.apple.com/ee/podcast/design-matters-with-debbie-millman/id328074695?i=1000320035449
 	- book: Pop
 - 250413 db design systems
