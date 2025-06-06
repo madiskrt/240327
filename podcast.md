@@ -1,3 +1,5 @@
+- 250606 Josh Brolin https://podcasts.apple.com/ee/podcast/design-matters-with-debbie-millman/id328074695?i=1000678147571
+	- book: From under the truck
 - 250520 Esther Perel dm https://podcasts.apple.com/ee/podcast/design-matters-with-debbie-millman/id328074695?i=1000470077547
 	- book: Mating in Captivity: Unlocking Erotic Intelligence [lnk](https://www.amazon.com/Mating-Captivity-Unlocking-Erotic-Intelligence-ebook/dp/B000UODXP0?ref_=ast_author_mpb)
 - dm Steven Heller https://podcasts.apple.com/ee/podcast/design-matters-with-debbie-millman/id328074695?i=1000320035449
