@@ -1,14 +1,4 @@
 
-- [ ] kolesterooli mõõtmine 📅 2024-12-31 
-- [x] uroloogi vastuvõtt ⏫ ⏳ 2024-06-11
-- uuringute saatekiri
-- kontroll ECG enne suve!?
-- [x] Iida vaktsiin teha aprill 🔼 📅 2024-04-15
-	- Teine vaktsiin mitte enne 7.06 
-
-trenniskäigud tabel [link](https://docs.google.com/spreadsheets/d/1HZf4cDL4716lkkL-UVDJTMvBe2NElg1nX3z8Emo_ZVQ/edit?usp=sharing)
-- karskusplaan al 20.11.2023 - ...
-
 | kp     | Kol | Hb  | mHDL | HDL | LDL | Lipo a |
 | ------ | --- | --- | ---- | --- | --- | ------ |
 | 240322 | 3.3 |     |      |     |     |        |
